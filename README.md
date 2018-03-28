@@ -55,6 +55,10 @@ Artificial intelligence in its current state is [unfair](https://github.com/rock
 
 [AdNauseam](https://adnauseam.io/) - AdNauseam is a lightweight browser extension to fight back against tracking by advertising networks. It works like an ad-blocker (it is built atop uBlock-Origin) to silently simulate clicks on each blocked ad, confusing trackers as to one's real interests [[code](https://github.com/dhowe/AdNauseam)]
 
+[B.S Detector](http://bsdetector.tech/) - B.S. Detector is a browser extension that searches all links on a given webpage for references to unreliable sources, checking against a manually compiled list of domains. It then provides visual warnings about the presence of questionable links or the browsing of questionable websites [[code](https://github.com/bs-detector/bs-detector)]
+
+[Snopes.com](https://www.snopes.com/) - The Snopes.com web site was founded by David Mikkelson, a project begun in 1994 and has since grown into the oldest and largest fact-checking site on the Internet, one widely regarded by journalists, folklorists, and laypersons alike as one of the world’s essential resources
+
 ## Licenses
 License
 

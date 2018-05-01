@@ -21,6 +21,8 @@ Artificial intelligence in its current state is [unfair](https://github.com/rock
 
 [COMPAS](http://www.equivant.com/challenges/supervision-and-compliance-monitoring) - is a risk assessment algorithm used in legal courts by the state of Wisconsin to predict the risk of recidivism. Its manufacturer refuses to disclose the proprietary algorithm and only the final risk assessment score is known. The algorithm is biased against blacks (even worse than humans) [[summary](https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing)][[NYT opinion](https://www.nytimes.com/2017/10/26/opinion/algorithm-compas-sentencing-bias.html)]
 
+[Infer Criminality From Your Face](https://arxiv.org/abs/1611.04135) - A program that judges if you’re a criminal from your facial features [[summary](https://www.technologyreview.com/s/602955/neural-network-learns-to-identify-criminals-by-their-faces/)]
+
 ## Influencing, desinformation and fakes
 
 [Cambridge Analytica](https://cambridgeanalytica.org/) - Cambridge Analytica uses Facebook data to change audience behavior for political and commercial causes [[Guardian article](https://www.theguardian.com/news/2018/mar/26/the-cambridge-analytica-files-the-story-so-far)]

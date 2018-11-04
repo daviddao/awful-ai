@@ -51,6 +51,16 @@ Artificial intelligence in its current state is [unfair](https://github.com/rock
 
 ---
 
+## Contestational research
+
+> Research to create a less awful and more privacy-preserving AI
+
+[Differential Privacy](https://blog.cryptographyengineering.com/2016/06/15/what-is-differential-privacy/) - A formal definition of privacy that allows us to make theoretical guarantees on data breaches. AI algorithms can be trained to be differentially private [[original paper](http://people.csail.mit.edu/asmith/PS/sensitivity-tcc-final.pdf)]
+
+[Privacy-Preservation using Trusted Hardware](https://tvm.ai/2018/10/09/ml-in-tees.html) - AI algorithms that can run inside trusted hardware enclaves (or [private blockchains](http://www.vldb.org/pvldb/vol11/p2086-hynes.pdf) that build upon it) and train without any shareholder having access to private data
+
+[Fair Machine Learning & Algorithm Bias](https://thegradient.pub/ai-bias/) - A subfield in AI that investigates different fairness criteria and algorithm bias. A recent [best paper (in ICLR18)](https://bair.berkeley.edu/blog/2018/05/17/delayed-impact/), e.g. shows that implementing specific criteria can have delayed impact on fairness.
+
 ## Contestational tech projects
 
 > These open source projects try to spur discourse, offer protection or awareness to awful AI

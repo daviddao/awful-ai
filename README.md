@@ -41,6 +41,8 @@ Artificial intelligence in its current state is [unfair](https://github.com/rock
 
 ## Surveillance
 
+[Gait Analysis](https://royalsociety.org/~/media/about-us/programmes/science-and-law/royal-society-forensic-gait-analysis-primer-for-courts.pdf) - Your gait is highly complex, very much unique and hard, if not impossible, to mask in this era of CCTV. Your gait only need to be recorded once and associated with your identity, for you to be tracked in real-time. [In china](https://www.theatlantic.com/magazine/archive/2018/04/big-in-china-machines-that-scan-your-face/554075/) this kind of surveillance is already deployed. In addition, multiple people have been convicted on their gait alone in the west. We can no longer stay even modestly anonymous in public.
+
 [SenseTime](https://www.sensetime.com/intelligentVideo/84) & [Megvii](https://megvii.com/)- Based on Face Recognition technology powered by deep learning algorithm, SenseFace and Megvii provides integrated solutions of intelligent video analysis, which functions in target surveillance, trajectory analysis, population management [[summary](https://www.reuters.com/article/us-china-facialrecognition-analysis/backing-big-brother-chinese-facial-recognition-firms-appeal-to-funds-idUSKBN1DD00A)][[forbes](https://www.forbes.com/sites/shuchingjeanchen/2018/03/07/the-faces-behind-chinas-omniscient-video-surveillance-technology/#54401e4f4afc)]
 
 [Uber God View](https://www.forbes.com/sites/kashmirhill/2014/10/03/god-view-uber-allegedly-stalked-users-for-party-goers-viewing-pleasure/#70a9f7a43141) - Uber's "God View" let Uber employees see all of the Ubers in a city and the silhouettes of waiting Uber users who have flagged cars - including names [[rides of glory](https://rideofglory.wordpress.com/)]

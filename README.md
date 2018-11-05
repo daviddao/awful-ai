@@ -23,6 +23,8 @@ Artificial intelligence in its current state is [unfair](https://github.com/rock
 
 [Infer Criminality From Your Face](https://arxiv.org/abs/1611.04135) - A program that judges if you’re a criminal from your facial features [[summary](https://www.technologyreview.com/s/602955/neural-network-learns-to-identify-criminals-by-their-faces/)]
 
+[iBorderCtrl](https://ec.europa.eu/research/infocentre/article_en.cfm?artid=49726) - Planed AI-based polygraph test for travellers entering the European Union (limited trial). The maximum accuracy of 85% is likely going to lead to a high number of false positives, considering how many people cross the EU borders every day. Furthermore, facial recognition algorithms are prone to racial bias. [[summary](https://gizmodo.com/an-ai-lie-detector-is-going-to-start-questioning-travel-1830126881)]
+
 ## Influencing, disinformation, and fakes
 
 [Cambridge Analytica](https://cambridgeanalytica.org/) - Cambridge Analytica uses Facebook data to change audience behavior for political and commercial causes [[Guardian article](https://www.theguardian.com/news/2018/mar/26/the-cambridge-analytica-files-the-story-so-far)]

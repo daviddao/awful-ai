@@ -3,7 +3,7 @@
 
 
 
-Artificial intelligence in its current state is [unfair](https://github.com/rockita/criticalML) and easily [susceptible to attacks](http://www.cleverhans.io/security/privacy/ml/2016/12/15/breaking-things-is-easy.html). Nevertheless, more and more concerning uses of AI technology are appearing in the wild. This list aims to track *all of them*. We hope that *Awful AI* can be a platform to spur discussion for the development of possible contestational technology (to fight back!).
+Artificial intelligence in its current state is [unfair](https://github.com/rockita/criticalML) and easily [susceptible to attacks](http://www.cleverhans.io/security/privacy/ml/2016/12/15/breaking-things-is-easy.html). Nevertheless, more and more concerning the uses of AI technology are appearing in the wild. This list aims to track *all of them*. We hope that *Awful AI* can be a platform to spur discussion for the development of possible contestational technology (to fight back!).
 
 ---
 
@@ -15,23 +15,23 @@ Artificial intelligence in its current state is [unfair](https://github.com/rock
 
 [Racist Chat Bots]() - Microsoft chatbot called Tay spent a day learning from Twitter and began spouting antisemitic messages [[summary](https://www.theguardian.com/technology/2016/mar/24/tay-microsofts-ai-chatbot-gets-a-crash-course-in-racism-from-twitter)]
 
-[Racist Auto Tag]() - a Google image recognition program labelled the faces of several black people as gorillas [[summary](https://www.theguardian.com/technology/2015/jul/01/google-sorry-racist-auto-tag-photo-app)]
+[Racist Auto Tag]() - a Google image recognition program labeled the faces of several black people as gorillas [[summary](https://www.theguardian.com/technology/2015/jul/01/google-sorry-racist-auto-tag-photo-app)]
 
-[PredPol](http://www.predpol.com/) - PredPol, a program for police departments that predicts hotspots where future crime might occur, could potentially get stuck in a feedback loop of over-policing majority black and brown neighbourhoods [[summary](https://www.themarshallproject.org/2016/02/03/policing-the-future?ref=hp-2-111#.UyhBLnmlj)]
+[PredPol](http://www.predpol.com/) - PredPol, a program for police departments that predicts hotspots where future crime might occur, could potentially get stuck in a feedback loop of over-policing majority black and brown neighborhoods [[summary](https://www.themarshallproject.org/2016/02/03/policing-the-future?ref=hp-2-111#.UyhBLnmlj)]
 
 [COMPAS](http://www.equivant.com/challenges/supervision-and-compliance-monitoring) - is a risk assessment algorithm used in legal courts by the state of Wisconsin to predict the risk of recidivism. Its manufacturer refuses to disclose the proprietary algorithm and only the final risk assessment score is known. The algorithm is biased against blacks (even worse than humans) [[summary](https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing)][[NYT opinion](https://www.nytimes.com/2017/10/26/opinion/algorithm-compas-sentencing-bias.html)]
 
 [Infer Criminality From Your Face](https://arxiv.org/abs/1611.04135) - A program that judges if you’re a criminal from your facial features [[summary](https://www.technologyreview.com/s/602955/neural-network-learns-to-identify-criminals-by-their-faces/)]
 
-## Influencing, desinformation and fakes
+## Influencing, disinformation, and fakes
 
 [Cambridge Analytica](https://cambridgeanalytica.org/) - Cambridge Analytica uses Facebook data to change audience behavior for political and commercial causes [[Guardian article](https://www.theguardian.com/news/2018/mar/26/the-cambridge-analytica-files-the-story-so-far)]
 
 [Deep Fakes](https://www.deepfakes.club/) - Deep Fakes is an artificial intelligence-based human image synthesis technique. It is used to combine and superimpose existing images and videos onto source images or videos. Deepfakes may be used to create fake celebrity pornographic videos or revenge porn. [[AI assisted fake porn](https://www.vice.com/en_us/article/bj5and/ai-assisted-fake-porn-is-here-and-were-all-fucked)]
 
-[Fake News Bots]() - Automated accounts are being programmed to spread fake news. In recent times, fake news has been used to manipulate stock markets, make people choose dangerous health-care options, and manipulate elections, including last year’s presidential election in the U.S. [[summary](https://www.wired.com/story/internet-freedom-2017/)][[role of bots](https://www.technologyreview.com/s/608561/first-evidence-that-social-bots-play-a-major-role-in-spreading-fake-news/)]
+[Fake News Bots]() - Automated accounts are being programmed to spread fake news. In recent times, fake news has been used to manipulate stock markets, make people choose dangerous health-care options, and manipulate elections, including last year’s presidential election in the U.S. [[summary](https://www.wired.com/story/internet-freedom-2017/)][[the role of bots](https://www.technologyreview.com/s/608561/first-evidence-that-social-bots-play-a-major-role-in-spreading-fake-news/)]
 
-[Attention Engineering]() - From Facebook notifications to Snapstreaks to YouTube autoplays, they're all competing for one thing: your attention. Companies prey on our psychology for their own profit [[TED Talk](https://www.ted.com/talks/tristan_harris_the_manipulative_tricks_tech_companies_use_to_capture_your_attention)]
+[Attention Engineering]() - From Facebook notifications to Snapstreaks to YouTube auto plays, they're all competing for one thing: your attention. Companies prey on our psychology for their own profit [[TED Talk](https://www.ted.com/talks/tristan_harris_the_manipulative_tricks_tech_companies_use_to_capture_your_attention)]
 
 ## Social credit systems
 
@@ -41,11 +41,11 @@ Artificial intelligence in its current state is [unfair](https://github.com/rock
 
 ## Surveillance
 
-[Gait Analysis](https://royalsociety.org/~/media/about-us/programmes/science-and-law/royal-society-forensic-gait-analysis-primer-for-courts.pdf) - Your gait is highly complex, very much unique and hard, if not impossible, to mask in this era of CCTV. Your gait only need to be recorded once and associated with your identity, for you to be tracked in real-time. [In china](https://www.theatlantic.com/magazine/archive/2018/04/big-in-china-machines-that-scan-your-face/554075/) this kind of surveillance is already deployed. In addition, multiple people have been convicted on their gait alone in the west. We can no longer stay even modestly anonymous in public.
+[Gait Analysis](https://royalsociety.org/~/media/about-us/programmes/science-and-law/royal-society-forensic-gait-analysis-primer-for-courts.pdf) - Your gait is highly complex, very much unique and hard, if not impossible, to mask in this era of CCTV. Your gait only needs to be recorded once and associated with your identity, for you to be tracked in real-time. [In China](https://www.theatlantic.com/magazine/archive/2018/04/big-in-china-machines-that-scan-your-face/554075/) this kind of surveillance is already deployed. In addition, multiple people have been convicted on their gait alone in the west. We can no longer stay even modestly anonymous in public.
 
 [SenseTime](https://www.sensetime.com/intelligentVideo/84) & [Megvii](https://megvii.com/)- Based on Face Recognition technology powered by deep learning algorithm, SenseFace and Megvii provides integrated solutions of intelligent video analysis, which functions in target surveillance, trajectory analysis, population management [[summary](https://www.reuters.com/article/us-china-facialrecognition-analysis/backing-big-brother-chinese-facial-recognition-firms-appeal-to-funds-idUSKBN1DD00A)][[forbes](https://www.forbes.com/sites/shuchingjeanchen/2018/03/07/the-faces-behind-chinas-omniscient-video-surveillance-technology/#54401e4f4afc)]
 
-[Uber God View](https://www.forbes.com/sites/kashmirhill/2014/10/03/god-view-uber-allegedly-stalked-users-for-party-goers-viewing-pleasure/#70a9f7a43141) - Uber's "God View" let Uber employees see all of the Ubers in a city and the silhouettes of waiting Uber users who have flagged cars - including names [[rides of glory](https://rideofglory.wordpress.com/)]
+[Uber God View](https://www.forbes.com/sites/kashmirhill/2014/10/03/god-view-uber-allegedly-stalked-users-for-party-goers-viewing-pleasure/#70a9f7a43141) - Uber's "God View" let Uber employees see all of the Ubers in a city and the silhouettes of waiting for Uber users who have flagged cars - including names [[rides of glory](https://rideofglory.wordpress.com/)]
 
 [Palantir](http://www.palantir.com/) - A billion-dollar startup that focuses on predictive policies, intelligence and ai-powered military defense systems [[summary](https://www.theverge.com/2018/3/10/17104878/palantir-us-army-contract-peter-thiel-data-intelligence-distributed-common-ground-system-tech)]
 
@@ -59,7 +59,7 @@ Artificial intelligence in its current state is [unfair](https://github.com/rock
 
 [Privacy-Preservation using Trusted Hardware](https://tvm.ai/2018/10/09/ml-in-tees.html) - AI algorithms that can run inside trusted hardware enclaves (or [private blockchains](http://www.vldb.org/pvldb/vol11/p2086-hynes.pdf) that build upon it) and train without any shareholder having access to private data
 
-[Fair Machine Learning & Algorithm Bias](https://thegradient.pub/ai-bias/) - A subfield in AI that investigates different fairness criteria and algorithm bias. A recent [best paper (in ICLR18)](https://bair.berkeley.edu/blog/2018/05/17/delayed-impact/), e.g. shows that implementing specific criteria can have delayed impact on fairness.
+[Fair Machine Learning & Algorithm Bias](https://thegradient.pub/ai-bias/) - A subfield in AI that investigates different fairness criteria and algorithm bias. A recent [best paper (in ICLR18)](https://bair.berkeley.edu/blog/2018/05/17/delayed-impact/), e.g. shows that implementing specific criteria can have a delayed impact on fairness.
 
 ## Contestational tech projects
 
@@ -71,9 +71,9 @@ Artificial intelligence in its current state is [unfair](https://github.com/rock
 
 [B.S Detector](http://bsdetector.tech/) - B.S. Detector is a browser extension that searches all links on a given webpage for references to unreliable sources, checking against a manually compiled list of domains. It then provides visual warnings about the presence of questionable links or the browsing of questionable websites [[code](https://github.com/bs-detector/bs-detector)]
 
-[Snopes.com](https://www.snopes.com/) - The Snopes.com web site was founded by David Mikkelson, a project begun in 1994 and has since grown into the oldest and largest fact-checking site on the Internet, one widely regarded by journalists, folklorists, and laypersons alike as one of the world’s essential resources
+[Snopes.com](https://www.snopes.com/) - The Snopes.com website was founded by David Mikkelson, a project begun in 1994 and has since grown into the oldest and largest fact-checking site on the Internet, one widely regarded by journalists, folklorists, and laypersons alike as one of the world’s essential resources
 
-[Facebook Container](https://addons.mozilla.org/de/firefox/addon/facebook-container/) - Facebook Container isolates your Facebook activity from the rest of your web activity in order to prevent Facebook from tracking you outside of the Facebook website via third party cookies [[code](https://github.com/mozilla/contain-facebook)]
+[Facebook Container](https://addons.mozilla.org/de/firefox/addon/facebook-container/) - Facebook Container isolates your Facebook activity from the rest of your web activity in order to prevent Facebook from tracking you outside of the Facebook website via third-party cookies [[code](https://github.com/mozilla/contain-facebook)]
 
 ## Licenses
 License

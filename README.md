@@ -3,7 +3,7 @@
 
 
 
-Artificial intelligence in its current state is [unfair](https://github.com/rockita/criticalML) and easily [susceptible to attacks](http://www.cleverhans.io/security/privacy/ml/2016/12/15/breaking-things-is-easy.html). Nevertheless, more and more concerning the uses of AI technology are appearing in the wild. This list aims to track *all of them*. We hope that *Awful AI* can be a platform to spur discussion for the development of possible contestational technology (to fight back!).
+Artificial intelligence in its current state is [unfair](https://github.com/rockita/criticalML) and easily [susceptible to attacks](http://www.cleverhans.io/security/privacy/ml/2016/12/16/breaking-things-is-easy.html). Nevertheless, more and more concerning the uses of AI technology are appearing in the wild. This list aims to track *all of them*. We hope that *Awful AI* can be a platform to spur discussion for the development of possible contestational technology (to fight back!).
 
 ---
 

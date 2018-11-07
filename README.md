@@ -77,6 +77,8 @@ Artificial intelligence in its current state is [unfair](https://github.com/rock
 
 [Facebook Container](https://addons.mozilla.org/de/firefox/addon/facebook-container/) - Facebook Container isolates your Facebook activity from the rest of your web activity in order to prevent Facebook from tracking you outside of the Facebook website via third-party cookies [[code](https://github.com/mozilla/contain-facebook)]
 
+[TrackMeNot](https://cs.nyu.edu/trackmenot/) - TrackMeNot is a browser extension (Chrome, Firefox) that helps protect your online searches by creating fake search queries. This creates noise in data that makes it harder to track and profile user behaviour. [[code](https://github.com/vtoubiana/TrackMeNot)]
+
 ## Licenses
 License
 

@@ -63,6 +63,8 @@ Artificial intelligence in its current state is [unfair](https://github.com/rock
 
 [Fair Machine Learning & Algorithm Bias](https://thegradient.pub/ai-bias/) - A subfield in AI that investigates different fairness criteria and algorithm bias. A recent [best paper (in ICLR18)](https://bair.berkeley.edu/blog/2018/05/17/delayed-impact/), e.g. shows that implementing specific criteria can have a delayed impact on fairness.
 
+[Adversarial Machine Learning](https://blog.openai.com/adversarial-example-research/) - Adversarial examples are inputs, which cause the model to make a mistake. Research in adversarial defenses includes but is not limited to adversarial training, distillation and Defense-GAN.
+
 ## Contestational tech projects
 
 > These open source projects try to spur discourse, offer protection or awareness to awful AI

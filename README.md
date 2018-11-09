@@ -63,6 +63,8 @@ Artificial intelligence in its current state is [unfair](https://github.com/rock
 
 [Fair Machine Learning & Algorithm Bias](https://thegradient.pub/ai-bias/) - A subfield in AI that investigates different fairness criteria and algorithm bias. A recent [best paper (in ICLR18)](https://bair.berkeley.edu/blog/2018/05/17/delayed-impact/), e.g. shows that implementing specific criteria can have a delayed impact on fairness.
 
+[Adversarial Machine Learning](https://blog.openai.com/adversarial-example-research/) - Adversarial examples are inputs, which cause the model to make a mistake. Research in adversarial defenses includes but is not limited to adversarial training, distillation and Defense-GAN.
+
 ## Contestational tech projects
 
 > These open source projects try to spur discourse, offer protection or awareness to awful AI
@@ -78,14 +80,6 @@ Artificial intelligence in its current state is [unfair](https://github.com/rock
 [Facebook Container](https://addons.mozilla.org/de/firefox/addon/facebook-container/) - Facebook Container isolates your Facebook activity from the rest of your web activity in order to prevent Facebook from tracking you outside of the Facebook website via third-party cookies [[code](https://github.com/mozilla/contain-facebook)]
 
 [TrackMeNot](https://cs.nyu.edu/trackmenot/) - TrackMeNot is a browser extension (Chrome, Firefox) that helps protect your online searches by creating fake search queries. This creates noise in data that makes it harder to track and profile user behaviour. [[code](https://github.com/vtoubiana/TrackMeNot)]
-
-## Pitfalls of Artificial Intelligence
-
-One fact that is known about Deep Learning is that these networks are not interpretable, this also gives rise to a slew of "pitfalls".
-
-[Adversarial Examples](https://blog.openai.com/adversarial-example-research/) - Adversarial Examples are inputs to Machine Learning which cause the network to make a mistake. In an autonomous vehicle setting, these mistakes can lead to fatalities. 
-
-Adversarial Defenses - To protect against Adversarial Examples, A variety of research has popped up. This includes but is not limited to  Adversarial Training, Distillation and Defense-GAN.
 
 ## Licenses
 License

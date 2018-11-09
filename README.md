@@ -79,6 +79,14 @@ Artificial intelligence in its current state is [unfair](https://github.com/rock
 
 [TrackMeNot](https://cs.nyu.edu/trackmenot/) - TrackMeNot is a browser extension (Chrome, Firefox) that helps protect your online searches by creating fake search queries. This creates noise in data that makes it harder to track and profile user behaviour. [[code](https://github.com/vtoubiana/TrackMeNot)]
 
+## Pitfalls of Artificial Intelligence
+
+One fact that is known about Deep Learning is that these networks are not interpretable, this also gives rise to a slew of "pitfalls".
+
+[Adversarial Examples](https://blog.openai.com/adversarial-example-research/) - Adversarial Examples are inputs to Machine Learning which cause the network to make a mistake. In an autonomous vehicle setting, these mistakes can lead to fatalities. 
+
+Adversarial Defenses - To protect against Adversarial Examples, A variety of research has popped up. This includes but is not limited to  Adversarial Training, Distillation and Defense-GAN.
+
 ## Licenses
 License
 

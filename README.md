@@ -61,6 +61,8 @@ Artificial intelligence in its current state is [unfair](https://github.com/rock
 
 [Privacy-Preservation using Trusted Hardware](https://tvm.ai/2018/10/09/ml-in-tees.html) - AI algorithms that can run inside trusted hardware enclaves (or [private blockchains](http://www.vldb.org/pvldb/vol11/p2086-hynes.pdf) that build upon it) and train without any shareholder having access to private data
 
+[Privacy-Preservation using Secure Computation](https://mortendahl.github.io/2017/09/19/private-image-analysis-with-mpc/) - Using secure computation techniques like secret sharing, Yao's garbled circuits, or homomorphic encryption to train and deploy private machine learning models on private data using [existing machine learning frameworks](https://arxiv.org/abs/1810.08130).
+
 [Fair Machine Learning & Algorithm Bias](https://thegradient.pub/ai-bias/) - A subfield in AI that investigates different fairness criteria and algorithm bias. A recent [best paper (in ICLR18)](https://bair.berkeley.edu/blog/2018/05/17/delayed-impact/), e.g. shows that implementing specific criteria can have a delayed impact on fairness.
 
 [Adversarial Machine Learning](https://blog.openai.com/adversarial-example-research/) - Adversarial examples are inputs, which cause the model to make a mistake. Research in adversarial defenses includes but is not limited to adversarial training, distillation and Defense-GAN.

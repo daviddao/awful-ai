@@ -87,6 +87,8 @@ Artificial intelligence in its current state is [unfair](https://github.com/rock
 
 [TrackMeNot](https://cs.nyu.edu/trackmenot/) - TrackMeNot is a browser extension (Chrome, Firefox) that helps protect your online searches by creating fake search queries. This creates noise in data that makes it harder to track and profile user behaviour. [[code](https://github.com/vtoubiana/TrackMeNot)]
 
+[Center for Democracy & Technology](https://cdt.info/ddtool/) - Digital Decisions is an interactive graphic that helps you ask the right questions when designing/implementing or building a new algorithm.
+
 ## Licenses
 License
 

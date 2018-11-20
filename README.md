@@ -25,7 +25,7 @@ Artificial intelligence in its current state is [unfair](https://github.com/rock
 
 [iBorderCtrl](https://ec.europa.eu/research/infocentre/article_en.cfm?artid=49726) - AI-based polygraph test for travellers entering the European Union (trial phase). Likely going to have a high number of false positives, considering how many people cross the EU borders every day. Furthermore, facial recognition algorithms are prone to racial bias. [[summary](https://gizmodo.com/an-ai-lie-detector-is-going-to-start-questioning-travel-1830126881)]
 
-[Faception](https://www.faception.com/) - Based on facial features, Faception claims that it can reveal personality traits e.g. "Extrovert, a person with High IQ, Professional Poker Player or a threats". [[link to tweet](https://twitter.com/jbensnyder/status/1064759174574280704)]
+[Faception](https://www.faception.com/) - Based on facial features, Faception claims that it can reveal personality traits e.g. "Extrovert, a person with High IQ, Professional Poker Player or a threats". They build models that classifies faces into categories such as Pedophile, Terrorist, White-Collar Offenders and Bingo Players without prior knowledge. [[classifiers](https://www.faception.com/our-technology)][[video pitch](https://www.youtube.com/watch?v=x1QsDiWCV-o)]
 
 ## Influencing, disinformation, and fakes
 

@@ -25,7 +25,7 @@ Artificial intelligence in its current state is [unfair](https://github.com/rock
 
 [iBorderCtrl](https://ec.europa.eu/research/infocentre/article_en.cfm?artid=49726) - AI-based polygraph test for travellers entering the European Union (trial phase). Likely going to have a high number of false positives, considering how many people cross the EU borders every day. Furthermore, facial recognition algorithms are prone to racial bias. [[summary](https://gizmodo.com/an-ai-lie-detector-is-going-to-start-questioning-travel-1830126881)]
 
-[Faception](https://www.faception.com/) - Based on facial features, Faception claims that it can reveal personality traits e.g. "Extrovert, a person with High IQ, Professional Poker Player or a threats". They build models that classifies faces into categories such as Pedophile, Terrorist, White-Collar Offenders and Bingo Players without prior knowledge. [[classifiers](https://www.faception.com/our-technology)][[video pitch](https://www.youtube.com/watch?v=x1QsDiWCV-o)]
+[Faception](https://www.faception.com/) - Based on facial features, Faception claims that it can reveal personality traits e.g. "Extrovert, a person with High IQ, Professional Poker Player or a threats". They build models that classify faces into categories such as Pedophile, Terrorist, White-Collar Offenders and Bingo Players without prior knowledge. [[classifiers](https://www.faception.com/our-technology)][[video pitch](https://www.youtube.com/watch?v=x1QsDiWCV-o)]
 
 ## Influencing, disinformation, and fakes
 
@@ -43,7 +43,7 @@ Artificial intelligence in its current state is [unfair](https://github.com/rock
 
 [Social Credit System](https://en.wikipedia.org/wiki/Social_Credit_System) - Using a secret algorithm, Sesame credit constantly scores people from 350 to 950, and its ratings are based on factors including considerations of “interpersonal relationships” and consumer habits. [[summary](https://www.theguardian.com/commentisfree/2018/mar/05/algorithms-rate-credit-scores-finances-data)][[Foreign Correspondent (video)](https://www.youtube.com/watch?v=eViswN602_k)][[travel ban](https://www.telegraph.co.uk/news/2018/03/24/chinas-social-credit-system-bans-millions-travelling/)]
 
-[Vitality](https://www.vitality.co.uk/media/vitality-extends-active-rewards-with-apple-watch-series-3/) - Health insurance company that offer deals based on access to data from fitness trackers. [[summary](https://www.theguardian.com/commentisfree/2018/mar/05/algorithms-rate-credit-scores-finances-data)]
+[Health Insurance Credit System](https://www.theguardian.com/commentisfree/2018/mar/05/algorithms-rate-credit-scores-finances-data) - Health insurance companies such as [Vitality](https://www.vitality.co.uk/media/vitality-extends-active-rewards-with-apple-watch-series-3/) offer deals based on access to data from fitness trackers. However, they also can charge more and even remove access to important medical devices if patients are determined to be non compliant to unfair pricing. [[ProPublica](https://www.propublica.org/article/you-snooze-you-lose-insurers-make-the-old-adage-literally-true)]
 
 ## Surveillance
 
@@ -56,6 +56,13 @@ Artificial intelligence in its current state is [unfair](https://github.com/rock
 [Uber God View](https://www.forbes.com/sites/kashmirhill/2014/10/03/god-view-uber-allegedly-stalked-users-for-party-goers-viewing-pleasure/#70a9f7a43141) - Uber's "God View" let Uber employees see all of the Ubers in a city and the silhouettes of waiting for Uber users who have flagged cars - including names. [[rides of glory](https://rideofglory.wordpress.com/)]
 
 [Palantir](http://www.palantir.com/) - A billion-dollar startup that focuses on predictive policies, intelligence and ai-powered military defense systems. [[summary](https://www.theverge.com/2018/3/10/17104878/palantir-us-army-contract-peter-thiel-data-intelligence-distributed-common-ground-system-tech)]
+
+## Misleading platforms, and scams
+
+[Misleading Show Robots](https://www.propublica.org/article/you-snooze-you-lose-insurers-make-the-old-adage-literally-true) - Show robots such as [Sophia](https://www.hansonrobotics.com/) are being used as a platform to falsely represent the current state of AI and to actively deceive the public into believing that current AI has human-like intelligence or is very close to it. This is especially harmful as it appeared on the world's leading forum for international security policy. By giving a false impression of where AI is today, it helps defense contractors and those pushing military AI technology to sell their ideas. [[Criticism by LeCun](https://www.facebook.com/yann.lecun/posts/10155025943382143)]
+
+[Zach](https://thespinoff.co.nz/the-best-of/06-03-2018/the-mystery-of-zach-new-zealands-all-too-miraculous-medical-ai/) - an AI, developed by the Terrible Foundation, claimed to write better reports than medical doctors. The technology generated large media attention in New Zealand but turned out to be a [misleading scam](https://thespinoff.co.nz/the-best-of/09-03-2018/the-mystery-of-zach-the-miracle-ai-continued-it-all-just-gets-terribler/) aiming to steal money from investors. 
+
 
 ---
 

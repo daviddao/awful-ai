@@ -9,13 +9,13 @@ Artificial intelligence in its current state is [unfair](https://github.com/rock
 
 ## Discrimination
 
-[HireVue](https://www.hirevue.com/) - App that scans your face and tells companies whether you’re worth hiring. [[summary](https://www.theladders.com/career-advice/ai-screen-candidates-hirevue)]
-
 [AI-based Gaydar](https://osf.io/zn79k/) - Artificial intelligence can accurately guess whether people are gay or straight based on photos of their faces, according to new research that suggests machines can have significantly better “gaydar” than humans. [[summary](https://www.theguardian.com/technology/2017/sep/07/new-artificial-intelligence-can-tell-whether-youre-gay-or-straight-from-a-photograph)]
 
 [Racist Chat Bots](https://www.theguardian.com/technology/2016/mar/24/tay-microsofts-ai-chatbot-gets-a-crash-course-in-racism-from-twitter) - Microsoft chatbot called Tay spent a day learning from Twitter and began spouting antisemitic messages.
 
 [Racist Auto Tag](https://www.theguardian.com/technology/2015/jul/01/google-sorry-racist-auto-tag-photo-app) - a Google image recognition program labeled the faces of several black people as gorillas.
+
+[Sexist Recruiting](https://www.telegraph.co.uk/technology/2018/10/10/amazon-scraps-sexist-ai-recruiting-tool-showed-bias-against/) - AI-based recruiting tools such as [HireVue](https://www.hirevue.com/) or an Amazon internal software, scans [various features such as video or voice data of job applicants](https://www.inc.com/minda-zetlin/ai-is-now-analyzing-candidates-facial-expressions-during-video-job-interviews.html) and their CVs in order to tell whether they're worth hiring. In the case of Amazon, the algorithm quickly taught itself to prefer male candidates over female ones, penalizing CVs that included the word "women's," such as "women's chess club captain." It also reportedly downgraded graduates of two all-women's colleges. [[summary](https://www.reuters.com/article/us-amazon-com-jobs-automation-insight/amazon-scraps-secret-ai-recruiting-tool-that-showed-bias-against-women-idUSKCN1MK08G)]
 
 [PredPol](http://www.predpol.com/) - PredPol, a program for police departments that predicts hotspots where future crime might occur, could potentially get stuck in a feedback loop of over-policing majority black and brown neighborhoods. [[summary](https://www.themarshallproject.org/2016/02/03/policing-the-future?ref=hp-2-111#.UyhBLnmlj)]
 

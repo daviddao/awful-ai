@@ -33,7 +33,7 @@ Artificial intelligence in its current state is [unfair](https://github.com/rock
 
 [Deep Fakes](https://www.deepfakes.club/) - Deep Fakes is an artificial intelligence-based human image synthesis technique. It is used to combine and superimpose existing images and videos onto source images or videos. Deepfakes may be used to create fake celebrity pornographic videos or revenge porn. [[AI assisted fake porn](https://www.vice.com/en_us/article/bj5and/ai-assisted-fake-porn-is-here-and-were-all-fucked)]
 
-[Fake News Bots](https://www.technologyreview.com/s/608561/first-evidence-that-social-bots-play-a-major-role-in-spreading-fake-news/) - Automated accounts are being programmed to spread fake news. In recent times, fake news has been used to manipulate stock markets, make people choose dangerous health-care options, and manipulate elections, including last year’s presidential election in the U.S. [[summary](https://www.wired.com/story/internet-freedom-2017/)]
+[Fake News Bots](https://www.technologyreview.com/s/608561/first-evidence-that-social-bots-play-a-major-role-in-spreading-fake-news/) - Automated accounts are being programmed to spread fake news. In recent times, fake news has been used to manipulate stock markets, make people choose dangerous health-care options, and manipulate elections, including the 2016 US presidential election. [[summary](https://www.wired.com/story/internet-freedom-2017/)]
 
 [Attention Engineering](https://www.ted.com/talks/tristan_harris_the_manipulative_tricks_tech_companies_use_to_capture_your_attention) - From Facebook notifications to Snapstreaks to YouTube auto plays, they're all competing for one thing: your attention. Companies prey on our psychology for their own profit.
 

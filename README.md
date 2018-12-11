@@ -23,6 +23,8 @@ Artificial intelligence in its current state is [unfair](https://github.com/rock
 
 [Infer Criminality From Your Face](https://arxiv.org/abs/1611.04135) - A program that judges if you’re a criminal from your facial features. [[summary](https://www.technologyreview.com/s/602955/neural-network-learns-to-identify-criminals-by-their-faces/)]
 
+[Homeland Security](https://theintercept.com/2018/12/03/air-travel-surveillance-homeland-security/) - Homeland security, with [DataRobot](https://www.datarobot.com/), is creating a terrorist-predicting algorithm trying to predict if a passenger or a group of passengers are high-risk by looking at age, domestic address, destination and/or transit airports, route information (one-way or round trip), duration of the stay, and luggage information, etc., and comparing with known instances.
+
 [iBorderCtrl](https://ec.europa.eu/research/infocentre/article_en.cfm?artid=49726) - AI-based polygraph test for travellers entering the European Union (trial phase). Likely going to have a high number of false positives, considering how many people cross the EU borders every day. Furthermore, facial recognition algorithms are prone to racial bias. [[summary](https://gizmodo.com/an-ai-lie-detector-is-going-to-start-questioning-travel-1830126881)]
 
 [Faception](https://www.faception.com/) - Based on facial features, Faception claims that it can reveal personality traits e.g. "Extrovert, a person with High IQ, Professional Poker Player or a threats". They build models that classify faces into categories such as Pedophile, Terrorist, White-Collar Offenders and Bingo Players without prior knowledge. [[classifiers](https://www.faception.com/our-technology)][[video pitch](https://www.youtube.com/watch?v=x1QsDiWCV-o)]

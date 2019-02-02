@@ -11,9 +11,11 @@ Artificial intelligence in its current state is [unfair](https://github.com/rock
 
 [AI-based Gaydar](https://osf.io/zn79k/) - Artificial intelligence can accurately guess whether people are gay or straight based on photos of their faces, according to new research that suggests machines can have significantly better “gaydar” than humans. [[summary](https://www.theguardian.com/technology/2017/sep/07/new-artificial-intelligence-can-tell-whether-youre-gay-or-straight-from-a-photograph)]
 
+[Infer Genetic Disease From Your Face](https://edition.cnn.com/2019/01/08/health/ai-technology-to-identify-genetic-disorder-from-facial-image-intl/index.html?no-st=1549146304) - DeepGestalt can accurately identify some rare genetic disorders using a photograph of a patient's face. This could lead to payers and employers potentially analyzing facial images and discriminating against individuals who have pre-existing conditions or developing medical complications. [[Nature Paper](https://www.nature.com/articles/s41591-018-0279-0.epdf?referrer_access_token=sF7zVVP51xQLnVUf3rpN09RgN0jAjWel9jnR3ZoTv0Os8H3z_P0FWM-ifOxgr_-D2EAOzSQNIaycjlyuCb2S8AGUIz1lwjJUTHXwXVO8I-FR_1SaryaQEMOiWiGdq9-Or0FcRDRHUv73m_pMRw6NINspOmyW0M_1un4KEiWrDmy-ncDDdRK_i38HeVnEgDbcrr79VUfW055SbD_CCuhoFZ24qZWOMZiZHEyJxNSiYg6df9_7QjUF7jCkr2y-qi2XQI6_ppSz6K0kuxLwezmPSZIEQGdOCqMNYUGpSKAm7ap0Xtf9DGaayEVXDc9NdJhelQEtp02wvxU7lRzbp40qAQ%3D%3D&tracking_referrer=edition.cnn.com)]
+
 [Racist Chat Bots](https://www.theguardian.com/technology/2016/mar/24/tay-microsofts-ai-chatbot-gets-a-crash-course-in-racism-from-twitter) - Microsoft chatbot called Tay spent a day learning from Twitter and began spouting antisemitic messages.
 
-[Racist Auto Tag](https://www.theguardian.com/technology/2015/jul/01/google-sorry-racist-auto-tag-photo-app) - a Google image recognition program labeled the faces of several black people as gorillas.
+[Racist Auto Tag](https://www.theguardian.com/technology/2015/jul/01/google-sorry-racist-auto-tag-photo-app) - a Google image recognition program labeled the faces of several black people as gorillas. Amazon's Rekognition labeled darker-skinned women as men 31 percent of the time. Lighter-skinned women were misidentified 7 percent of the time. Rekognition helps the Washington County Sheriff Office in Oregon speed up how long it took to identify suspects from hundreds of thousands of photo records. [[ABC report on Rekognition bias](https://t.co/RdA2OsLR9h)]
 
 [Sexist Recruiting](https://www.telegraph.co.uk/technology/2018/10/10/amazon-scraps-sexist-ai-recruiting-tool-showed-bias-against/) - AI-based recruiting tools such as [HireVue](https://www.hirevue.com/) or an Amazon internal software, scans [various features such as video or voice data of job applicants](https://www.inc.com/minda-zetlin/ai-is-now-analyzing-candidates-facial-expressions-during-video-job-interviews.html) and their CVs in order to tell whether they're worth hiring. In the case of Amazon, the algorithm quickly taught itself to prefer male candidates over female ones, penalizing CVs that included the word "women's," such as "women's chess club captain." It also reportedly downgraded graduates of two all-women's colleges. [[summary](https://www.reuters.com/article/us-amazon-com-jobs-automation-insight/amazon-scraps-secret-ai-recruiting-tool-that-showed-bias-against-women-idUSKCN1MK08G)]
 
@@ -33,7 +35,7 @@ Artificial intelligence in its current state is [unfair](https://github.com/rock
 
 [Cambridge Analytica](https://cambridgeanalytica.org/) - Cambridge Analytica uses Facebook data to change audience behavior for political and commercial causes. [[Guardian article](https://www.theguardian.com/news/2018/mar/26/the-cambridge-analytica-files-the-story-so-far)]
 
-[Deep Fakes](https://www.deepfakes.club/) - Deep Fakes is an artificial intelligence-based human image synthesis technique. It is used to combine and superimpose existing images and videos onto source images or videos. Deepfakes may be used to create fake celebrity pornographic videos or revenge porn. [[AI assisted fake porn](https://www.vice.com/en_us/article/bj5and/ai-assisted-fake-porn-is-here-and-were-all-fucked)]
+[Deep Fakes](https://www.deepfakes.club/) - Deep Fakes is an artificial intelligence-based human image synthesis technique. It is used to combine and superimpose existing images and videos onto source images or videos. Deepfakes may be used to create fake celebrity pornographic videos or revenge porn. [[AI assisted fake porn](https://www.vice.com/en_us/article/bj5and/ai-assisted-fake-porn-is-here-and-were-all-fucked)][[CNN Interactive Report](https://www.cnn.com/interactive/2019/01/business/pentagons-race-against-deepfakes)]
 
 [Fake News Bots](https://www.technologyreview.com/s/608561/first-evidence-that-social-bots-play-a-major-role-in-spreading-fake-news/) - Automated accounts are being programmed to spread fake news. In recent times, fake news has been used to manipulate stock markets, make people choose dangerous health-care options, and manipulate elections, including the 2016 US presidential election. [[summary](https://www.wired.com/story/internet-freedom-2017/)]
 
@@ -99,6 +101,7 @@ Artificial intelligence in its current state is [unfair](https://github.com/rock
 [TrackMeNot](https://cs.nyu.edu/trackmenot/) - TrackMeNot is a browser extension (Chrome, Firefox) that helps protect your online searches by creating fake search queries. This creates noise in data that makes it harder to track and profile user behaviour. [[code](https://github.com/vtoubiana/TrackMeNot)]
 
 [Center for Democracy & Technology](https://cdt.info/ddtool/) - Digital Decisions is an interactive graphic that helps you ask the right questions when designing/implementing or building a new algorithm.
+
 
 ## Licenses
 License

@@ -31,6 +31,8 @@ Artificial intelligence in its current state is [unfair](https://github.com/rock
 
 [Faception](https://www.faception.com/) - Based on facial features, Faception claims that it can reveal personality traits e.g. "Extrovert, a person with High IQ, Professional Poker Player or a threats". They build models that classify faces into categories such as Pedophile, Terrorist, White-Collar Offenders and Bingo Players without prior knowledge. [[classifiers](https://www.faception.com/our-technology)][[video pitch](https://www.youtube.com/watch?v=x1QsDiWCV-o)]
 
+[Persecuting ethnic minorities](https://www.theguardian.com/news/2019/apr/11/china-hi-tech-war-on-muslim-minority-xinjiang-uighurs-surveillance-face-recognition) - Chinese start-ups have built algorithms that allow the government of the People’s Republic of Chinauses to automatically track Uyghur people. This AI technology ends up in products like the AI Camera from [Hikvision](https://ipvm.com/reports/hikvision-uyghur), which has marketed a camera that automatically identifies Uyghurs, one of the world's most persecuted minorities. [[NYT opinion](https://www.nytimes.com/2019/04/14/technology/china-surveillance-artificial-intelligence-racial-profiling.html)]
+
 ## Influencing, disinformation, and fakes
 
 [Cambridge Analytica](https://cambridgeanalytica.org/) - Cambridge Analytica uses Facebook data to change audience behavior for political and commercial causes. [[Guardian article](https://www.theguardian.com/news/2018/mar/26/the-cambridge-analytica-files-the-story-so-far)]

@@ -1,8 +1,6 @@
 # Awful AI
 **Awful AI** is a curated list to track *current* scary usages of AI - hoping to raise awareness to its misuses in society
 
-
-
 Artificial intelligence in its current state is [unfair](https://github.com/rockita/criticalML), [easily susceptible to attacks](http://www.cleverhans.io/security/privacy/ml/2016/12/16/breaking-things-is-easy.html) and [notoriously difficult to control](https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1vRPiprOaC3HsCf5Tuum8bRfzYUiKLRqJmbOoC-32JorNdfyTiRRsR7Ea5eWtvsWzuxo8bjOxCG84dAg/pubhtml). Nevertheless, more and more concerning the uses of AI technology are appearing in the wild. This list aims to track *all of them*. We hope that *Awful AI* can be a platform to spur discussion for the development of possible contestational technology (to fight back!).
 
 ---
@@ -73,6 +71,18 @@ Artificial intelligence in its current state is [unfair](https://github.com/rock
 
 
 ---
+
+## Awful research
+
+> 'Creative' awful research is getting accepted in AI's top scientific conference. This section gives out the *scariest paper award* for the most unethical research at a top-venue conference. Congratulations to the authors and also to the conference for missing ethical guidelines.
+
+### NeurIPS 2019 'scariest paper award' 🥇 
+[Face Reconstruction from Voice using Generative Adversarial Networks
+](https://papers.nips.cc/paper/8768-face-reconstruction-from-voice-using-generative-adversarial-networks) - This paper addresses the challenge to reconstruct someone's face from their voice. Given an audio clip spoken by an unseen person, the proposed algorithm pictures a face that has as many common elements, or associations as possible with the speaker, in terms of identity. The model is able to generate faces that match several biometric characteristics of the speaker, and results in matching accuracies that are much better than chance. [[code](https://github.com/cmu-mlsp/reconstructing_faces_from_voices)]
+**Category: Surveillance**
+
+[Predicting the Politics of an Image Using Webly Supervised Data
+](https://papers.nips.cc/paper/8621-predicting-the-politics-of-an-image-using-webly-supervised-data) - This paper collects a dataset of over one million unique images and associated news articles from left- and right-leaning news sources, and develops a method to predict and adjust the image's political leaning, outperforming strong baselines. **Category: Discrimination**
 
 ## Contestational research
 

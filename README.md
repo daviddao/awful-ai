@@ -92,11 +92,7 @@ Artificial intelligence in its current state is [unfair](https://github.com/rock
 
 > These open source projects try to spur discourse, offer protection or awareness to awful AI
 
-[Data Selfie](https://dataselfie.it/#/) - Data Selfie is a browser extension that tracks you while you are on Facebook to show you your own data traces and reveal what machine learning algorithms could predict about your personality based on that data. [[code](https://github.com/d4t4x/data-selfie)]
-
 [AdNauseam](https://adnauseam.io/) - AdNauseam is a lightweight browser extension to fight back against tracking by advertising networks. It works like an ad-blocker (it is built atop uBlock-Origin) to silently simulate clicks on each blocked ad, confusing trackers as to one's real interests. [[code](https://github.com/dhowe/AdNauseam)]
-
-[B.S Detector](http://bsdetector.tech/) - B.S. Detector is a browser extension that searches all links on a given webpage for references to unreliable sources, checking against a manually compiled list of domains. It then provides visual warnings about the presence of questionable links or the browsing of questionable websites. [[code](https://github.com/bs-detector/bs-detector)]
 
 [Snopes.com](https://www.snopes.com/) - The Snopes.com website was founded by David Mikkelson, a project begun in 1994 and has since grown into the oldest and largest fact-checking site on the Internet, one widely regarded by journalists, folklorists, and laypersons alike as one of the world’s essential resources.
 

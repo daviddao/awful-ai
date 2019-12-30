@@ -69,6 +69,14 @@ Artificial intelligence in its current state is [unfair](https://github.com/rock
 
 [Zach](https://thespinoff.co.nz/the-best-of/06-03-2018/the-mystery-of-zach-new-zealands-all-too-miraculous-medical-ai/) - an AI, developed by the Terrible Foundation, claimed to write better reports than medical doctors. The technology generated large media attention in New Zealand but turned out to be a [misleading scam](https://thespinoff.co.nz/the-best-of/09-03-2018/the-mystery-of-zach-the-miracle-ai-continued-it-all-just-gets-terribler/) aiming to steal money from investors. 
 
+## Autonomous weapon systems and military
+
+[Lethal autonomous weapons systems](https://autonomousweapons.org/)- Automonous weapons locate, select, and engage targets without human intervention. They include, for example, [armed quadcopters (video)](https://www.youtube.com/watch?v=9CO6M2HsoIA) that can search for and eliminate enemy combatants in a city using facial recognition. [[NY Times (video)](https://www.youtube.com/watch?v=GFD_Cgr2zho)]
+
+Known current autonomous weapons projects include:
+- [Automated machine gun](https://www.youtube.com/watch?v=4OqmoHBvB0c) - The Kalashnikov group presented an automatic weapon control station using AI that provides the operator with automatic recognition and target illumination and automatic tracking of ground, air and sea targets. Samsung developed and deployed [SGR-A1](https://en.wikipedia.org/wiki/SGR-A1), a robot sentry gun, which uses voice recognition and tracking.
+- [Armed UAVs](http://www.globaltimes.cn/content/1149168.shtml) - Ziyan UAV develops armed autonomous drones with light machine guns and explosives that can act in swarms
+- [Autonomous Tanks](https://en.wikipedia.org/wiki/Unmanned_ground_vehicle) - Uran-9 is an autonomous tank, developed by Russia, that was tested in the [Syrian Civil War](https://nationalinterest.org/blog/buzz/russias-uran-9-robot-tank-went-war-syria-it-didnt-go-very-well-40677)
 
 ---
 

@@ -102,6 +102,8 @@ Known current autonomous weapons projects include:
 
 [Privacy-Preservation using Secure Computation](https://mortendahl.github.io/2017/09/19/private-image-analysis-with-mpc/) - Using secure computation techniques like secret sharing, Yao's garbled circuits, or homomorphic encryption to train and deploy private machine learning models on private data using [existing machine learning frameworks](https://arxiv.org/abs/1810.08130).
 
+[Blockchained Federated Learning Network](https://arxiv.org/abs/1912.04859) - Using Local Differential Privacy integrated into a Federated Learning Architecture backed by a Blockchain Network to completely decentralize and incentivize learning from private data to create a privacy-preserving ecosystem. 
+
 [Fair Machine Learning & Algorithm Bias](https://thegradient.pub/ai-bias/) - A subfield in AI that investigates different fairness criteria and algorithm bias. A recent [best paper (in ICLR18)](https://bair.berkeley.edu/blog/2018/05/17/delayed-impact/), e.g. shows that implementing specific criteria can have a delayed impact on fairness.
 
 [Adversarial Machine Learning](https://blog.openai.com/adversarial-example-research/) - Adversarial examples are inputs, which cause the model to make a mistake. Research in adversarial defenses includes but is not limited to adversarial training, distillation and Defense-GAN.

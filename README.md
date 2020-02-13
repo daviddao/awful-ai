@@ -106,6 +106,8 @@ Known current autonomous weapons projects include:
 
 [Adversarial Machine Learning](https://blog.openai.com/adversarial-example-research/) - Adversarial examples are inputs, which cause the model to make a mistake. Research in adversarial defenses includes but is not limited to adversarial training, distillation and Defense-GAN.
 
+[Protective Optimization Technologies](https://blog.acolyer.org/2020/02/05/protective-optimization-technologies/) - Technological tools and interventions that protest, contest, or counteract awful AI systems. A recent [academic paper (in FAT* 2020)](https://arxiv.org/abs/1806.02711) has compiled list of such technologies and showed how to build them.
+
 ## Contestational tech projects
 
 > These open source projects try to spur discourse, offer protection or awareness to awful AI

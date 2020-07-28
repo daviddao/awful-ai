@@ -1,7 +1,7 @@
 # Awful AI
 **Awful AI** is a curated list to track *current* scary usages of AI - hoping to raise awareness to its misuses in society
 
-Artificial intelligence in its current state is [unfair](https://github.com/rockita/criticalML), [easily susceptible to attacks](http://www.cleverhans.io/security/privacy/ml/2016/12/16/breaking-things-is-easy.html) and [notoriously difficult to control](https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1vRPiprOaC3HsCf5Tuum8bRfzYUiKLRqJmbOoC-32JorNdfyTiRRsR7Ea5eWtvsWzuxo8bjOxCG84dAg/pubhtml). Nevertheless, more and more concerning the uses of AI technology are appearing in the wild. This list aims to track *all of them*. We hope that *Awful AI* can be a platform to spur discussion for the development of possible preventive technology (to fight back!).
+Artificial intelligence in its current state is [unfair](https://github.com/rockita/criticalML), [easily susceptible to attacks](http://www.cleverhans.io/security/privacy/ml/2016/12/16/breaking-things-is-easy.html) and [notoriously difficult to control](https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1vRPiprOaC3HsCf5Tuum8bRfzYUiKLRqJmbOoC-32JorNdfyTiRRsR7Ea5eWtvsWzuxo8bjOxCG84dAg/pubhtml). Often, AI systems and predictions [amplify existing systematic biases](https://twitter.com/kaiwei_chang/status/1274845029933084673) even when the data is balanced. Nevertheless, more and more concerning the uses of AI technology are appearing in the wild. This list aims to track *all of them*. We hope that *Awful AI* can be a platform to spur discussion for the development of possible preventive technology (to fight back!).
 
 ---
 
@@ -15,7 +15,7 @@ Artificial intelligence in its current state is [unfair](https://github.com/rock
 
 [Racist Auto Tag](https://www.theguardian.com/technology/2015/jul/01/google-sorry-racist-auto-tag-photo-app) - a Google image recognition program labeled the faces of several black people as gorillas. Amazon's Rekognition labeled darker-skinned women as men 31 percent of the time. Lighter-skinned women were misidentified 7 per cent of the time. Rekognition helps the Washington County Sheriff Office in Oregon speed up how long it took to identify suspects from hundreds of thousands of photo records. [[ABC report on Rekognition bias](https://abcnews.go.com/Technology/wireStory/researchers-amazon-face-detection-technology-shows-bias-60630589?cid=social_twitter_abcn)]
 
-[Sexist Recruiting](https://www.telegraph.co.uk/technology/2018/10/10/amazon-scraps-sexist-ai-recruiting-tool-showed-bias-against/) - AI-based recruiting tools such as [HireVue](https://www.hirevue.com/) or an Amazon internal software, scans [various features such as video or voice data of job applicants](https://www.inc.com/minda-zetlin/ai-is-now-analyzing-candidates-facial-expressions-during-video-job-interviews.html) and their CVs to tell whether they're worth hiring. In the case of Amazon, the algorithm quickly taught itself to prefer male candidates over female ones, penalizing CVs that included the word "women's," such as "women's chess club captain." It also reportedly downgraded graduates of two women's colleges. [[summary](https://www.reuters.com/article/us-amazon-com-jobs-automation-insight/amazon-scraps-secret-ai-recruiting-tool-that-showed-bias-against-women-idUSKCN1MK08G)][[Post article about HireVue](https://www.washingtonpost.com/technology/2019/10/22/ai-hiring-face-scanning-algorithm-increasingly-decides-whether-you-deserve-job/)]
+[Sexist Recruiting](https://www.telegraph.co.uk/technology/2018/10/10/amazon-scraps-sexist-ai-recruiting-tool-showed-bias-against/) - AI-based recruiting tools such as [HireVue](https://www.hirevue.com/), [PredictiveHire](https://www.technologyreview.com/2020/07/24/1005602/ai-hiring-promises-bias-free-job-hopping-prediction/), or an Amazon internal software, scans [various features such as video or voice data of job applicants](https://www.inc.com/minda-zetlin/ai-is-now-analyzing-candidates-facial-expressions-during-video-job-interviews.html) and their CVs to tell whether they're worth hiring. In the case of Amazon, the algorithm quickly taught itself to prefer male candidates over female ones, penalizing CVs that included the word "women's," such as "women's chess club captain." It also reportedly downgraded graduates of two women's colleges. [[summary](https://www.reuters.com/article/us-amazon-com-jobs-automation-insight/amazon-scraps-secret-ai-recruiting-tool-that-showed-bias-against-women-idUSKCN1MK08G)][[Post article about HireVue](https://www.washingtonpost.com/technology/2019/10/22/ai-hiring-face-scanning-algorithm-increasingly-decides-whether-you-deserve-job/)]
 
 [PredPol](http://www.predpol.com/) - PredPol, a program for police departments that predicts hotspots where future crime might occur, could potentially get stuck in a feedback loop of over-policing majority black and brown neighbourhoods. [[summary](https://www.themarshallproject.org/2016/02/03/policing-the-future?ref=hp-2-111#.UyhBLnmlj)]
 
@@ -112,6 +112,8 @@ Known current autonomous weapons projects include:
 
 > These open-source projects try to spur discourse, offer protection or awareness to awful AI
 
+[BLM Privacy](http://blm.stanford.edu/) - AI facial recognition models can recognize blurred faces and is used by authorities to arrest protesters. BLM Privacy tries to discourage people from trying to recognize or reconstruct pixelated faces by masking people with an opaque mask. [[code](https://github.com/StanfordMLGroup/blm)]
+
 [AdNauseam](https://adnauseam.io/) - AdNauseam is a lightweight browser extension to fight back against tracking by advertising networks. It works like an ad-blocker (it is built atop uBlock-Origin) to silently simulate clicks on each blocked ad, confusing trackers as to one's real interests. [[code](https://github.com/dhowe/AdNauseam)]
 
 [Snopes.com](https://www.snopes.com/) - The Snopes.com website was founded by David Mikkelson, a project begun in 1994 and has since grown into the oldest and largest fact-checking site on the Internet, one widely regarded by journalists, folklorists, and laypersons alike as one of the world’s essential resources.
@@ -123,8 +125,7 @@ Known current autonomous weapons projects include:
 [Center for Democracy & Technology](https://cdt.info/ddtool/) - Digital Decisions is an interactive graphic that helps you ask the right questions when designing/implementing or building a new algorithm.
 
 
-## Licenses
-License
+## License
 
 [![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
 

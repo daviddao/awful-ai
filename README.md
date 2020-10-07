@@ -127,6 +127,11 @@ Known current autonomous weapons projects include:
 [Center for Democracy & Technology](https://cdt.info/ddtool/) - Digital Decisions is an interactive graphic that helps you ask the right questions when designing/implementing or building a new algorithm.
 
 
+## Bias
+[Depixelizer](https://www.theverge.com/21298762/face-depixelizer-ai-machine-learning-tool-pulse-stylegan-obama-bias) - An algorithm that transforms a low resolution image into a depixelized one, always transforms Obama into a white person. The most reasonable explanation is that the training data containing mostly white people.
+
+[Twitter autocrop](https://www.vice.com/en/article/ep4e4w/what-twitters-preference-for-ted-cruz-with-big-anime-boobs-says-about-ai-bias) - Twitter takes the user image and crops it to have a preview of the image. It was noted by users that this crop selects boobs and avoids sad people black people.  
+
 ## License
 
 [![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)

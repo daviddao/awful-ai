@@ -45,6 +45,8 @@ Artificial intelligence in its current state is [unfair](https://github.com/rock
 
 [Social Media Propaganda](https://www.theguardian.com/world/2014/jul/08/darpa-social-networks-research-twitter-influence-studies) - The Military is studying and using data-driven social media propaganda to manipulate news feeds to change the perceptions of military actions. [[Guardian article](https://www.theguardian.com/world/2014/jul/08/darpa-social-networks-research-twitter-influence-studies)]
 
+[Meta-data driven conferencing system](https://www.youtube.com/watch?v=NqmMnjJ6GEg) - nVidia has developed a system for videoconferencing that takes a single frame of actual video then manipulates it to reflect the source without transferring any other frames, just data points, which are mapped to the original video or a completely different avatar.  It would be trivial to manipulate the bitstream to output video/audio of one's choosing.  Heavily based on Deep Fakes.
+
 ## Surveillance
 
 [Clearview.ai](https://clearview.ai/) - Clearview AI build a facial recognition database of billions of people by scanning their social media profiles. The application is currently used [by law enforcement](https://www.nytimes.com/2020/01/18/technology/clearview-privacy-facial-recognition.html) to extract names and addresses from potential suspects, and as [a secret plaything for the rich](https://www.nytimes.com/2020/03/05/technology/clearview-investors.html) to let them spy on customers and dates.

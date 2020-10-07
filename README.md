@@ -33,6 +33,15 @@ Artificial intelligence in its current state is [unfair](https://github.com/rock
 
 [Persecuting ethnic minorities](https://www.theguardian.com/news/2019/apr/11/china-hi-tech-war-on-muslim-minority-xinjiang-uighurs-surveillance-face-recognition) - Chinese start-ups have built algorithms that allow the government of the People’s Republic of China to automatically track Uyghur people. This AI technology ends up in products like the AI Camera from [Hikvision](https://ipvm.com/reports/hikvision-uyghur), which has marketed a camera that automatically identifies Uyghurs, one of the world's most persecuted minorities. [[NYT opinion](https://www.nytimes.com/2019/04/14/technology/china-surveillance-artificial-intelligence-racial-profiling.html)]
 
+[Depixelizer](https://www.theverge.com/21298762/face-depixelizer-ai-machine-learning-tool-pulse-stylegan-obama-bias) - An algorithm that transforms a low-resolution image into a depixelized one, always transforms Obama into a white person. The most reasonable explanation is that the training data containing mostly white people.
+
+[Twitter autocrop](https://www.vice.com/en/article/ep4e4w/what-twitters-preference-for-ted-cruz-with-big-anime-boobs-says-about-ai-bias) - Twitter takes the user image and crops it to have a preview of the image. It was noted by users that this crop selects boobs and avoids sad people black people.  
+
+[Autograding](https://www.theverge.com/2020/8/17/21372045/uk-a-level-results-algorithm-biased-coronavirus-covid-19-pandemic-university-applications) - An algorithm used to predict grades based on the beginning of the semester and historical data, was found to be biased against students of poor backgrounds.
+
+[Zoom face recognition](https://twitter.com/colinmadland/status/1307111816250748933) - As with most face recognition software, zoom's algorithm have problems recognizing black people. 
+
+
 ## Influencing, disinformation, and fakes
 
 [Cambridge Analytica](https://cambridgeanalytica.org/) - Cambridge Analytica uses Facebook data to change audience behaviour for political and commercial causes. [[Guardian article](https://www.theguardian.com/news/2018/mar/26/the-cambridge-analytica-files-the-story-so-far)]
@@ -126,18 +135,6 @@ Known current autonomous weapons projects include:
 
 [Center for Democracy & Technology](https://cdt.info/ddtool/) - Digital Decisions is an interactive graphic that helps you ask the right questions when designing/implementing or building a new algorithm.
 
-
-## Bias
-
-> Examples of AI projects that reached production trained with biased data.
-
-[Depixelizer](https://www.theverge.com/21298762/face-depixelizer-ai-machine-learning-tool-pulse-stylegan-obama-bias) - An algorithm that transforms a low resolution image into a depixelized one, always transforms Obama into a white person. The most reasonable explanation is that the training data containing mostly white people.
-
-[Twitter autocrop](https://www.vice.com/en/article/ep4e4w/what-twitters-preference-for-ted-cruz-with-big-anime-boobs-says-about-ai-bias) - Twitter takes the user image and crops it to have a preview of the image. It was noted by users that this crop selects boobs and avoids sad people black people.  
-
-[Autograding](https://www.theverge.com/2020/8/17/21372045/uk-a-level-results-algorithm-biased-coronavirus-covid-19-pandemic-university-applications) - An algorithm used to predict grades based on the begining of the semester, found to be biased against students of poor backgrounds.
-
-[Zoom face recognition](https://twitter.com/colinmadland/status/1307111816250748933) - As with most face recognition software, zoom's algorithm have problems recognizing black people. 
 
 ## License
 

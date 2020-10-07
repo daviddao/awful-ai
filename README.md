@@ -135,9 +135,9 @@ Known current autonomous weapons projects include:
 
 [Twitter autocrop](https://www.vice.com/en/article/ep4e4w/what-twitters-preference-for-ted-cruz-with-big-anime-boobs-says-about-ai-bias) - Twitter takes the user image and crops it to have a preview of the image. It was noted by users that this crop selects boobs and avoids sad people black people.  
 
-[Autograding](https://www.theverge.com/2020/8/17/21372045/uk-a-level-results-algorithm-biased-coronavirus-covid-19-pandemic-university-applications) = An algorithm used to predict grades based on the begining of the semester, found to be biased against students of poor backgrounds.
+[Autograding](https://www.theverge.com/2020/8/17/21372045/uk-a-level-results-algorithm-biased-coronavirus-covid-19-pandemic-university-applications) - An algorithm used to predict grades based on the begining of the semester, found to be biased against students of poor backgrounds.
 
-[Zoom face recognition](https://twitter.com/colinmadland/status/1307111816250748933) As with most face recognition software, zoom's algorithm have problems recognizing black people. 
+[Zoom face recognition](https://twitter.com/colinmadland/status/1307111816250748933) - As with most face recognition software, zoom's algorithm have problems recognizing black people. 
 
 ## License
 

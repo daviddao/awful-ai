@@ -137,6 +137,8 @@ Known current autonomous weapons projects include:
 
 [Autograding](https://www.theverge.com/2020/8/17/21372045/uk-a-level-results-algorithm-biased-coronavirus-covid-19-pandemic-university-applications) = An algorithm used to predict grades based on the begining of the semester, found to be biased against students of poor backgrounds.
 
+[Zoom face recognition](https://twitter.com/colinmadland/status/1307111816250748933) As with most face recognition software, zoom's algorithm have problems recognizing black people. 
+
 ## License
 
 [![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)

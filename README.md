@@ -128,6 +128,9 @@ Known current autonomous weapons projects include:
 
 
 ## Bias
+
+> Examples of AI projects that reached production trained with biased data.
+
 [Depixelizer](https://www.theverge.com/21298762/face-depixelizer-ai-machine-learning-tool-pulse-stylegan-obama-bias) - An algorithm that transforms a low resolution image into a depixelized one, always transforms Obama into a white person. The most reasonable explanation is that the training data containing mostly white people.
 
 [Twitter autocrop](https://www.vice.com/en/article/ep4e4w/what-twitters-preference-for-ted-cruz-with-big-anime-boobs-says-about-ai-bias) - Twitter takes the user image and crops it to have a preview of the image. It was noted by users that this crop selects boobs and avoids sad people black people.  

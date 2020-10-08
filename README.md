@@ -126,6 +126,7 @@ Known current autonomous weapons projects include:
 
 [Center for Democracy & Technology](https://cdt.info/ddtool/) - Digital Decisions is an interactive graphic that helps you ask the right questions when designing/implementing or building a new algorithm.
 
+[Camera Adversaria] - A camera app designed to disrupt AI surveillance. The app adds generative adversarial perturbations to users’ photographs, which confound DL image classification systems but are virtually imperceptible to humans.[[code](https://github.com/kieranbrowne/camera-adversaria)] [[paper](https://kieranbrowne.com/publications/camera_adversaria.pdf)]
 
 ## License
 

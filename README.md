@@ -45,7 +45,7 @@ Artificial intelligence in its current state is [unfair](https://github.com/rock
 
 [Social Media Propaganda](https://www.theguardian.com/world/2014/jul/08/darpa-social-networks-research-twitter-influence-studies) - The Military is studying and using data-driven social media propaganda to manipulate news feeds to change the perceptions of military actions. [[Guardian article](https://www.theguardian.com/world/2014/jul/08/darpa-social-networks-research-twitter-influence-studies)]
 
-[Meta-data driven conferencing system](https://www.youtube.com/watch?v=NqmMnjJ6GEg) - nVidia has developed a system for videoconferencing that takes a single frame of actual video then manipulates it to reflect the source without transferring any other frames, just data points, which are mapped to the original video or a completely different avatar.  It would be trivial to manipulate the bitstream to output video/audio of one's choosing.  Heavily based on Deep Fakes.
+[Meta-data driven conferencing system](https://www.youtube.com/watch?v=NqmMnjJ6GEg) - NVIDIA has developed a system for videoconferencing that takes a single frame of actual video then manipulates it to reflect the source without transferring any other frames, just data points, which are mapped to the original video or a completely different avatar.  It would be trivial to manipulate the bitstream to output video/audio of one's choosing.  Heavily based on Deep Fakes.
 
 ## Surveillance
 

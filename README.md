@@ -104,11 +104,11 @@ Artificial intelligence in its current state is [unfair](https://github.com/rock
 
 ### Winner 2020: Google Research & the AI Twitter Community 
 
-**'Awful role-model award' 🥇**
+**'Awful role model award' 🥇**
 
-**Laudatio**: 
+**Laudation**: 
 
-Congratulations to Google Research for sending a strong signal by [firing Dr. Timnit Gebru](https://googlewalkout.medium.com/standing-with-dr-timnit-gebru-isupporttimnit-believeblackwomen-6dadc300d382), one of very few Black women Research Scientists at the company, from her position as Co-Lead of Ethical AI after a dispute over her research, which focused on examining the environmental and ethical implications of large-scale AI language models. 
+Congratulations to Google Research for sending an awful signal by [firing Dr. Timnit Gebru](https://googlewalkout.medium.com/standing-with-dr-timnit-gebru-isupporttimnit-believeblackwomen-6dadc300d382), one of very few Black women Research Scientists at the company, from her position as Co-Lead of Ethical AI after a dispute over her research, which focused on examining the environmental and ethical implications of large-scale AI language models. 
 
 Congratulations to the AI Twitter community for its increasing efforts on creating a space of [unsafe dialogue and toxic behaviour](https://www.geekwire.com/2020/retired-uw-computer-science-professor-embroiled-twitter-spat-ai-ethics-cancel-culture/) that [mobbed out many AI researchers such as Anima Anandkumar](https://animakumar.wpcomstaging.com/2020/12/16/my-departure-from-twitter/) (who led the [renaming of NIPS controversial acryonym](https://www.nature.com/articles/d41586-018-07476-w) into NeurIPS) 
 
@@ -116,7 +116,7 @@ Congratulations to the AI Twitter community for its increasing efforts on creati
 
 **'Scary research award' 🥇**
 
-**Laudatio**: 
+**Laudation**: 
 
 Congratulations to NeurIPS 2019, one of the world's top venue for AI research, and its reviewers for accepting unethical papers into the conference. Some examples are listed below.
 

@@ -60,7 +60,7 @@ Artificial intelligence in its current state is [unfair](https://github.com/rock
 
 [Anyvision Facial Recognition](https://www.anyvision.co/) - Facial recognition software previously funded by Microsoft which has [become infamous](https://dropanyvision.org/) for its use by the Israeli Government to survey, track, and identify those living under military occupation throughout the West Bank. The system is also used at Israeli [army checkpoints](https://www.haaretz.com/israel-news/business/.premium-this-israeli-face-recognition-startup-is-secretly-tracking-palestinians-1.7500359) that enclose occupied Palestine.
 
-[Clearview.ai](https://clearview.ai/) - Clearview AI build a facial recognition database of billions of people by scanning their social media profiles. The application is currently used [by law enforcement](https://www.nytimes.com/2020/01/18/technology/clearview-privacy-facial-recognition.html) to extract names and addresses from potential suspects, and as [a secret plaything for the rich](https://www.nytimes.com/2020/03/05/technology/clearview-investors.html) to let them spy on customers and dates.
+[Clearview.ai](https://clearview.ai/) - Clearview AI built a facial recognition database of billions of people by scanning their social media profiles. The application is currently used [by law enforcement](https://www.nytimes.com/2020/01/18/technology/clearview-privacy-facial-recognition.html) to extract names and addresses from potential suspects, and as [a secret plaything for the rich](https://www.nytimes.com/2020/03/05/technology/clearview-investors.html) to let them spy on customers and dates.
 
 [Predicting Mass Protests](https://motherboard.vice.com/en_us/article/7x3g4x/pentagon-wants-to-predict-anti-trump-protests-using-social-media-surveillance) - The US Pentagon funds and uses technologies such as [social media surveillance](http://apollo2.cs.illinois.edu/index.html) and [satellite imagery](https://www.iarpa.gov/index.php/newsroom/iarpa-in-the-news/2015/461-the-embers-project-can-predict-the-future-with-twitter) to [forecast civil disobedience](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.302.323&rep=rep1&type=pdf) and infer [location of protesters](https://patents.google.com/patent/US20170310772A1/en) [via their social networks](https://web.archive.org/web/20181019110722/http://jurgens.people.si.umich.edu/docs/icwsm-2013-slides.pdf) around the world. There are indications that this technology is increasingly used to [target Anti-Trump protests](https://link.springer.com/chapter/10.1007/978-3-319-97885-7_27), [leftwing groups](https://www.theguardian.com/us-news/2018/sep/15/massachusetts-police-tweet-leftwing-surveillance-boston) and [activists of color](https://medium.com/@ACLU_NorCal/police-use-of-social-media-surveillance-software-is-escalating-and-activists-are-in-the-digital-d29d8f89c48#.fowkro6dy). 
 
@@ -88,26 +88,49 @@ Artificial intelligence in its current state is [unfair](https://github.com/rock
 
 ## Autonomous weapon systems and military
 
-[Lethal autonomous weapons systems](https://autonomousweapons.org/)- Autonomous weapons locate, select, and engage targets without human intervention. They include, for example, [armed quadcopters (video)](https://www.youtube.com/watch?v=9CO6M2HsoIA) that can search for and eliminate enemy combatants in a city using facial recognition. [[NY Times (video)](https://www.youtube.com/watch?v=GFD_Cgr2zho)]
+[Lethal autonomous weapons systems](https://autonomousweapons.org/) - Autonomous weapons locate, select, and engage targets without human intervention. They include, for example, [armed quadcopters (video)](https://www.youtube.com/watch?v=9CO6M2HsoIA) that can search for and eliminate enemy combatants in a city using facial recognition. [[NY Times (video)](https://www.youtube.com/watch?v=GFD_Cgr2zho)]
 
-Known current autonomous weapons projects include:
+### Known autonomous weapons projects:
 - [Automated machine gun](https://www.youtube.com/watch?v=4OqmoHBvB0c) - The Kalashnikov group presented an automatic weapon control station using AI that provides the operator with automatic recognition and target illumination and automatic tracking of ground, air and sea targets. Samsung developed and deployed [SGR-A1](https://en.wikipedia.org/wiki/SGR-A1), a robot sentry gun, which uses voice recognition and tracking.
 - [Armed UAVs](http://www.globaltimes.cn/content/1149168.shtml) - Ziyan UAV develops armed autonomous drones with light machine guns and explosives that can act in swarms
 - [Autonomous Tanks](https://en.wikipedia.org/wiki/Unmanned_ground_vehicle) - Uran-9 is an autonomous tank, developed by Russia, that was tested in the [Syrian Civil War](https://nationalinterest.org/blog/buzz/russias-uran-9-robot-tank-went-war-syria-it-didnt-go-very-well-40677)
 
+### Known incidents:
+
+['Machine-gun with AI' used to kill Iran scientist](https://www.bbc.com/news/world-middle-east-55214359) - A machine-gun mounted on the Nissan pick-up was equipped with an intelligent satellite system which zoomed in on an iranian scientist. The machine-gun controlled through artificial intelligence shot the scientist without hurting his wife, despite being only 25cm away.
+
 ---
 
-## Awful research
+## Awful AI Research
 
-> 'Creative' awful research is getting accepted in AI's top scientific conference. This section gives out the *scariest paper award* for the most unethical research at a top-venue conference. Congratulations to the authors and also to the conference for missing ethical guidelines.
+> Awful AI research shapes awful AI applications. This section gives out the *Awful AI Research award* for the most unethical research or event happening within the scientific community. Congratulations to AI researchers and companies for missing ethical guidelines. 
 
-### NeurIPS 2019 'scariest paper award' 🥇 
+### Winner 2020: Google Research & the AI Twitter Community 
+
+**'Awful role model award' 🥇**
+
+**Laudation**: 
+
+Congratulations to Google Research for sending an awful signal by [firing Dr. Timnit Gebru](https://googlewalkout.medium.com/standing-with-dr-timnit-gebru-isupporttimnit-believeblackwomen-6dadc300d382), one of very few Black women Research Scientists at the company, from her position as Co-Lead of Ethical AI after a dispute over her research, which focused on examining the environmental and ethical implications of large-scale AI language models. 
+
+Congratulations to the AI Twitter community for its increasing efforts on creating a space of [unsafe dialogue and toxic behaviour](https://www.geekwire.com/2020/retired-uw-computer-science-professor-embroiled-twitter-spat-ai-ethics-cancel-culture/) that [mobbed out many AI researchers such as Anima Anandkumar](https://animakumar.wpcomstaging.com/2020/12/16/my-departure-from-twitter/) (who led the [renaming of NIPS controversial acryonym](https://www.nature.com/articles/d41586-018-07476-w) into NeurIPS) 
+
+### Winner 2019: NeurIPS 
+
+**'Scary research award' 🥇**
+
+**Laudation**: 
+
+Congratulations to NeurIPS 2019, one of the world's top venue for AI research, and its reviewers for accepting unethical papers into the conference. Some examples are listed below.
+
 [Face Reconstruction from Voice using Generative Adversarial Networks
 ](https://papers.nips.cc/paper/8768-face-reconstruction-from-voice-using-generative-adversarial-networks) - This paper addresses the challenge to reconstruct someone's face from their voice. Given an audio clip spoken by an unseen person, the proposed algorithm pictures a face that has as many common elements, or associations as possible with the speaker, in terms of identity. The model can generate faces that match several biometric characteristics of the speaker and results in matching accuracies that are much better than chance. [[code](https://github.com/cmu-mlsp/reconstructing_faces_from_voices)]
 **Category: Surveillance**
 
 [Predicting the Politics of an Image Using Webly Supervised Data
 ](https://papers.nips.cc/paper/8621-predicting-the-politics-of-an-image-using-webly-supervised-data) - This paper collects a dataset of over one million unique images and associated news articles from left- and right-leaning news sources, and develops a method to predict and adjust the image's political leaning, outperforming strong baselines. **Category: Discrimination**
+
+Update (2020): NeurIPS 2020 has since implemented ethical reviews that [flag and reject unethical papers](https://www.nature.com/articles/d41586-020-03611-8).
 
 ## Contestational research
 

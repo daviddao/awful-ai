@@ -89,6 +89,15 @@ Artificial intelligence in its current state is [unfair](https://github.com/rock
 
 [Zach](https://thespinoff.co.nz/the-best-of/06-03-2018/the-mystery-of-zach-new-zealands-all-too-miraculous-medical-ai/) - an AI, developed by the Terrible Foundation, claimed to write better reports than medical doctors. The technology generated large media attention in New Zealand but turned out to be a [misleading scam](https://thespinoff.co.nz/the-best-of/09-03-2018/the-mystery-of-zach-the-miracle-ai-continued-it-all-just-gets-terribler/) aiming to steal money from investors. 
 
+## Accelerating the climate emergency
+
+[Increase fossil fuel production](https://www.greenpeace.org/usa/reports/oil-in-the-cloud) - As the oil and gas industry confronts the end of the oil age and deteriorating earnings, major oil corporations such as Shell, BP, Chevron, ExxonMobil and others have turned to the tech companies and artificial intelligence to find and extract more oil and gas, reduce production costs and extending global warming. 
+The World Economic Forum has estimated that advanced analytics and modeling could generate at much as [$425 billion in value](http://reports.weforum.org/digital-transformation/wp-content/blogs.dir/94/mp/files/pages/files/white-paper-2017-dti-oil-gas.pdf) for the oil and gas sector by 2025. AI technologies could boost production levels [by as much as 5%](https://corporate.exxonmobil.com/News/Newsroom/News-releases/2019/0305_ExxonMobil-to-increase-accelerate-Permian-output-to-1-million-barrels-per-day-by-2024). [[Video](https://www.youtube.com/watch?v=v3n8txX3144)]
+
+[Overestimate carbon credits](https://www.propublica.org/article/the-climate-solution-actually-adding-millions-of-tons-of-co2-into-the-atmosphere) - Forest carbon credits are bought by emitters to get to net zero. Over issuing carbon credits have a devastating effect in allowing emitters to emit more than legally allowed. This is already happening on a systematic level. Carbonplan found out that 29% of the offsets analyzed were over-credited, totaling an additional 30 million tCO₂e. Recent research suggests, that [AI-based estimations](https://www.climatechange.ai/papers/icml2021/79) can accelerate this problem and significantly overcredit carbon offsets. [[Technical Report](https://carbonplan.org/research/forest-offsets-explainer)][[map](https://carbonplan.org/research/forest-offsets)]
+
+
+
 ## Autonomous weapon systems and military
 
 [Lethal autonomous weapons systems](https://autonomousweapons.org/) - Autonomous weapons locate, select, and engage targets without human intervention. They include, for example, [armed quadcopters (video)](https://www.youtube.com/watch?v=9CO6M2HsoIA) that can search for and eliminate enemy combatants in a city using facial recognition. [[NY Times (video)](https://www.youtube.com/watch?v=GFD_Cgr2zho)]
@@ -107,9 +116,9 @@ Artificial intelligence in its current state is [unfair](https://github.com/rock
 
 ---
 
-## Awful AI Research
+## Awful AI Award
 
-> Awful AI research shapes awful AI applications. This section gives out the *Awful AI Research award* for the most unethical research or event happening within the scientific community. Congratulations to AI researchers and companies for missing ethical guidelines. 
+> Every year this section gives out the *Awful AI award* for the most unethical research or event happening within the scientific community and beyond. Congratulations to AI researchers, companies and media for missing ethical guidelines - and failing to provide moral guidelines.
 
 ### Winner 2020: Google Research & the AI Twitter Community 
 
@@ -121,7 +130,7 @@ Congratulations to Google Research for sending an awful signal by [firing Dr. Ti
 
 Congratulations to the AI Twitter community for its increasing efforts on creating a space of [unsafe dialogue and toxic behaviour](https://www.geekwire.com/2020/retired-uw-computer-science-professor-embroiled-twitter-spat-ai-ethics-cancel-culture/) that [mobbed out many AI researchers such as Anima Anandkumar](https://animakumar.wpcomstaging.com/2020/12/16/my-departure-from-twitter/) (who led the [renaming of NIPS controversial acryonym](https://www.nature.com/articles/d41586-018-07476-w) into NeurIPS) 
 
-### Winner 2019: NeurIPS 
+### Winner 2019: NeurIPS Conference
 
 **'Scary research award' 🥇**
 

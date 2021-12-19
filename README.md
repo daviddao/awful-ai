@@ -97,6 +97,9 @@ Artificial intelligence in its current state is [unfair](https://github.com/rock
 - [Automated machine gun](https://www.youtube.com/watch?v=4OqmoHBvB0c) - The Kalashnikov group presented an automatic weapon control station using AI that provides the operator with automatic recognition and target illumination and automatic tracking of ground, air and sea targets. Samsung developed and deployed [SGR-A1](https://en.wikipedia.org/wiki/SGR-A1), a robot sentry gun, which uses voice recognition and tracking.
 - [Armed UAVs](http://www.globaltimes.cn/content/1149168.shtml) - Ziyan UAV develops armed autonomous drones with light machine guns and explosives that can act in swarms
 - [Autonomous Tanks](https://en.wikipedia.org/wiki/Unmanned_ground_vehicle) - Uran-9 is an autonomous tank, developed by Russia, that was tested in the [Syrian Civil War](https://nationalinterest.org/blog/buzz/russias-uran-9-robot-tank-went-war-syria-it-didnt-go-very-well-40677)
+- [Robot dogs with guns](https://www.theverge.com/2021/10/14/22726111/robot-dogs-with-guns-sword-international-ghost-robotics) - Ghost Robotics equippes robotic dogs with a lethal weapons. The SPUR gun is designed to be fitted onto a variety of robotic platforms and is unmanned.
+
+
 
 ### Known incidents:
 

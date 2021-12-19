@@ -159,6 +159,13 @@ Update (2020): NeurIPS 2020 has since implemented ethical reviews that [flag and
 
 [Center for Democracy & Technology](https://cdt.info/ddtool/) - Digital Decisions is an interactive graphic that helps you ask the right questions when designing/implementing or building a new algorithm.
 
+[TensorFlow KnowYourData](https://knowyourdata.withgoogle.com/) - A platform to help researchers, engineers, product teams, and decision makers understand 70+ datasets with the goal of improving data quality, and helping mitigate fairness and bias issues.
+
+[Model and dataset cards](https://modelcards.withgoogle.com/about) - Model and [dataset](https://huggingface.co/docs/datasets/v1.12.0/dataset_card.html) cards encourage transparent reporting for ML models and datasets. They are short documents accompanying ML models or datasets that provide benchmarked evaluation in a variety of conditions, such as across different cultural, demographic, or phenotypic groups (e.g., race, geographic location, sex, Fitzpatrick skin type) and intersectional groups (e.g., age and race, or sex and Fitzpatrick skin type). They also disclose the context and limits in which datasets and models are intended to be used, details of the performance evaluation procedures, and other relevant information. [[paper](https://arxiv.org/abs/1810.03993)][[blog](https://ai.googleblog.com/2020/07/introducing-model-card-toolkit-for.html)]
+
+[Towards Truthful Language Models](https://openai.com/blog/improving-factual-accuracy/) - Language models like GPT-3 are useful for many different tasks, but have a tendency to “hallucinate” information when performing tasks requiring obscure real-world knowledge. OpenAI requires research model to cite its sources, allowing humans to evaluate factual accuracy by checking whether a claim is supported by a reliable source. 
+
+
 
 ## License
 

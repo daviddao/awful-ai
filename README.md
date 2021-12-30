@@ -120,15 +120,23 @@ The World Economic Forum has estimated that advanced analytics and modeling coul
 
 > Every year this section gives out the *Awful AI award* for the most unethical research or event happening within the scientific community and beyond. Congratulations to AI researchers, companies and media for missing ethical guidelines - and failing to provide moral guidelines.
 
+### Winner 2021: FastCompany & Checkr
+
+**'Awful media reporting' 🥇**
+
+**Laudation**:
+
+Congratulations to [FastCompany](https://www.fastcompany.com/) for awarding [Checkr](), a [highly controversial](https://www.protocol.com/checkr-gig-economy-lawsuits) automated background check company, the [World Changing Ideas Awards for "fair" hiring](https://www.fastcompany.com/90623897/see-34-ingenious-inspirational-winners-of-the-2021-world-changing-ideas-awards). Instead of slow fingerprint-based background checks, Checkr uses several machine learning models to gather reports from public records which will contain bias and mistakes. [Dozens of lawsuits](https://www.agrusslawfirm.com/blog/controversial-background-check-startup-checkr-worth-$2-2-billion/) have been filed against Checkr since 2014 for erroneous information. Despite these ongoing controversies, we congratulate FastCompany for the audacity for turning the narrative and awarding Checkr instead its prize for "ethical" and "fair" AI use 👏
+
 ### Winner 2020: Google Research & the AI Twitter Community 
 
 **'Awful role model award' 🥇**
 
 **Laudation**: 
 
-Congratulations to Google Research for sending an awful signal by [firing Dr. Timnit Gebru](https://googlewalkout.medium.com/standing-with-dr-timnit-gebru-isupporttimnit-believeblackwomen-6dadc300d382), one of very few Black women Research Scientists at the company, from her position as Co-Lead of Ethical AI after a dispute over her research, which focused on examining the environmental and ethical implications of large-scale AI language models. 
+Congratulations to Google Research for sending an awful signal by [firing Dr. Timnit Gebru](https://googlewalkout.medium.com/standing-with-dr-timnit-gebru-isupporttimnit-believeblackwomen-6dadc300d382), one of very few Black women Research Scientists at the company, from her position as Co-Lead of Ethical AI after a dispute over her research, which focused on examining the environmental and ethical implications of large-scale AI language models 👏
 
-Congratulations to the AI Twitter community for its increasing efforts on creating a space of [unsafe dialogue and toxic behaviour](https://www.geekwire.com/2020/retired-uw-computer-science-professor-embroiled-twitter-spat-ai-ethics-cancel-culture/) that [mobbed out many AI researchers such as Anima Anandkumar](https://animakumar.wpcomstaging.com/2020/12/16/my-departure-from-twitter/) (who led the [renaming of NIPS controversial acryonym](https://www.nature.com/articles/d41586-018-07476-w) into NeurIPS) 
+Congratulations to the AI Twitter community for its increasing efforts on creating a space of [unsafe dialogue and toxic behaviour](https://www.geekwire.com/2020/retired-uw-computer-science-professor-embroiled-twitter-spat-ai-ethics-cancel-culture/) that [mobbed out many AI researchers such as Anima Anandkumar](https://animakumar.wpcomstaging.com/2020/12/16/my-departure-from-twitter/) (who led the [renaming of NIPS controversial acryonym](https://www.nature.com/articles/d41586-018-07476-w) into NeurIPS) 👏
 
 ### Winner 2019: NeurIPS Conference
 
@@ -136,7 +144,7 @@ Congratulations to the AI Twitter community for its increasing efforts on creati
 
 **Laudation**: 
 
-Congratulations to NeurIPS 2019, one of the world's top venue for AI research, and its reviewers for accepting unethical papers into the conference. Some examples are listed below.
+Congratulations to NeurIPS 2019, one of the world's top venue for AI research, and its reviewers for accepting unethical papers into the conference. Some examples are listed below 👏
 
 [Face Reconstruction from Voice using Generative Adversarial Networks
 ](https://papers.nips.cc/paper/8768-face-reconstruction-from-voice-using-generative-adversarial-networks) - This paper addresses the challenge to reconstruct someone's face from their voice. Given an audio clip spoken by an unseen person, the proposed algorithm pictures a face that has as many common elements, or associations as possible with the speaker, in terms of identity. The model can generate faces that match several biometric characteristics of the speaker and results in matching accuracies that are much better than chance. [[code](https://github.com/cmu-mlsp/reconstructing_faces_from_voices)]

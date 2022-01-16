@@ -1,7 +1,12 @@
 # Awful AI
+
 **Awful AI** is a curated list to track *current* scary usages of AI - hoping to raise awareness to its misuses in society
 
 Artificial intelligence in its current state is [unfair](https://github.com/rockita/criticalML), [easily susceptible to attacks](http://www.cleverhans.io/security/privacy/ml/2016/12/16/breaking-things-is-easy.html) and [notoriously difficult to control](https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1vRPiprOaC3HsCf5Tuum8bRfzYUiKLRqJmbOoC-32JorNdfyTiRRsR7Ea5eWtvsWzuxo8bjOxCG84dAg/pubhtml). Often, AI systems and predictions [amplify existing systematic biases](https://twitter.com/kaiwei_chang/status/1274845029933084673) even when the data is balanced. Nevertheless, more and more concerning the uses of AI technology are appearing in the wild. This list aims to track *all of them*. We hope that *Awful AI* can be a platform to spur discussion for the development of possible preventive technology (to fight back!).
+
+You can [cite the list](https://zenodo.org/record/5855972#.YeQUyFjMI-Q) and raise more awareness through Zenodo.
+
+[![DOI](https://zenodo.org/badge/127008307.svg)](https://zenodo.org/badge/latestdoi/127008307)
 
 ---
 

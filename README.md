@@ -196,6 +196,8 @@ Update (2020): NeurIPS 2020 has since implemented ethical reviews that [flag and
 
 [Model and dataset cards](https://modelcards.withgoogle.com/about) - Model and [dataset](https://huggingface.co/docs/datasets/v1.12.0/dataset_card.html) cards encourage transparent reporting for ML models and datasets. They are short documents accompanying ML models or datasets that provide benchmarked evaluation in a variety of conditions, such as across different cultural, demographic, or phenotypic groups (e.g., race, geographic location, sex, Fitzpatrick skin type) and intersectional groups (e.g., age and race, or sex and Fitzpatrick skin type). They also disclose the context and limits in which datasets and models are intended to be used, details of the performance evaluation procedures, and other relevant information. [[paper](https://arxiv.org/abs/1810.03993)][[blog](https://ai.googleblog.com/2020/07/introducing-model-card-toolkit-for.html)]
 
+[Evil AI Cartoons](https://www.evilaicartoons.com/) - Educate and stimulate discussion about the societal impacts of Artificial Intelligence through the cartoon/comics medium. Each cartoon is accompanied by a brief blog post that provides more context and useful pointers to further reading. 
+
 ## License
 
 [![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)

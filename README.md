@@ -1,7 +1,12 @@
 # Awful AI
+
 **Awful AI** is a curated list to track *current* scary usages of AI - hoping to raise awareness to its misuses in society
 
-Artificial intelligence in its current state is [unfair](https://github.com/rockita/criticalML), [easily susceptible to attacks](http://www.cleverhans.io/security/privacy/ml/2016/12/16/breaking-things-is-easy.html) and [notoriously difficult to control](https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1vRPiprOaC3HsCf5Tuum8bRfzYUiKLRqJmbOoC-32JorNdfyTiRRsR7Ea5eWtvsWzuxo8bjOxCG84dAg/pubhtml). Often, AI systems and predictions [amplify existing systematic biases](https://twitter.com/kaiwei_chang/status/1274845029933084673) even when the data is balanced. Nevertheless, more and more concerning the uses of AI technology are appearing in the wild. This list aims to track *all of them*. We hope that *Awful AI* can be a platform to spur discussion for the development of possible preventive technology (to fight back!).
+Artificial intelligence in its current state is [unfair](https://github.com/rockita/criticalML), [easily susceptible to attacks](http://www.cleverhans.io/security/privacy/ml/2016/12/16/breaking-things-is-easy.html) and [notoriously difficult to control](https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1vRPiprOaC3HsCf5Tuum8bRfzYUiKLRqJmbOoC-32JorNdfyTiRRsR7Ea5eWtvsWzuxo8bjOxCG84dAg/pubhtml). Often, AI systems and predictions [amplify existing systematic biases](https://twitter.com/kaiwei_chang/status/1274845029933084673) even when the data is balanced. Nevertheless, more and more concerning uses of AI technology are appearing in the wild. This list aims to track *all of them*. We hope that *Awful AI* can be a platform to spur discussion for the development of possible preventive technology (to fight back!).
+
+You can [cite the list](https://zenodo.org/record/5855972#.YeQUyFjMI-Q) and raise more awareness through Zenodo.
+
+[![DOI](https://zenodo.org/badge/127008307.svg)](https://zenodo.org/badge/latestdoi/127008307)
 
 ---
 
@@ -23,12 +28,13 @@ Artificial intelligence in its current state is [unfair](https://github.com/rock
 
 [Sexist Recruiting](https://www.telegraph.co.uk/technology/2018/10/10/amazon-scraps-sexist-ai-recruiting-tool-showed-bias-against/) - AI-based recruiting tools such as [HireVue](https://www.hirevue.com/), [PredictiveHire](https://www.technologyreview.com/2020/07/24/1005602/ai-hiring-promises-bias-free-job-hopping-prediction/), or an Amazon internal software, scans [various features such as video or voice data of job applicants](https://www.inc.com/minda-zetlin/ai-is-now-analyzing-candidates-facial-expressions-during-video-job-interviews.html) and their CVs to tell whether they're worth hiring. In the case of Amazon, the algorithm quickly taught itself to prefer male candidates over female ones, penalizing CVs that included the word "women's," such as "women's chess club captain." It also reportedly downgraded graduates of two women's colleges. [[summary](https://www.reuters.com/article/us-amazon-com-jobs-automation-insight/amazon-scraps-secret-ai-recruiting-tool-that-showed-bias-against-women-idUSKCN1MK08G)][[Post article about HireVue](https://www.washingtonpost.com/technology/2019/10/22/ai-hiring-face-scanning-algorithm-increasingly-decides-whether-you-deserve-job/)]
 
+[Sexist Image Generation](https://www.technologyreview.com/2021/01/29/1017065/ai-image-generation-is-racist-sexist/amp/?__twitter_impression=true) - Researchers have [demonstrated](https://arxiv.org/pdf/2010.15052.pdf) that AI-based image-generation algorithms can inhibit racist and sexist ideas. Feed one a photo of a man cropped right below his neck, and 43% of the time, it will autocomplete him wearing a suit. Feed the same one a cropped photo of a woman, even a famous woman like US Representative Alexandria Ocasio-Cortez, and 53% of the time, it will autocomplete her wearing a low-cut top or bikini. Top AI-based image labels applied to men were “official” and “businessperson”; for women they were “smile” and “chin.” [[Wired article]](https://www.wired.com/story/ai-sees-man-thinks-official-woman-smile/?mbid=social_twitter&utm_brand=wired&utm_campaign=falcon&utm_medium=social&utm_social-type=owned&utm_source=twitter)
+
 [Gender Detection from Names](https://www.theverge.com/2020/7/29/21346310/ai-service-gender-verification-identification-genderify) - Genderify was a biased service that promised to identify someone’s gender by analyzing their name, email address, or username with the help of AI. According to Genderify, Meghan Smith is a woman, but Dr. Meghan Smith is a man.
 
 [GRADE](https://www.insidehighered.com/admissions/article/2020/12/14/u-texas-will-stop-using-controversial-algorithm-evaluate-phd) - GRADE, an algorithm that filtered applications to PhD at UT was found to be biased. In certain test, the algorithm ignored letters of recommendation and statements of purpuse, which usually help people who doesn't have a perfect GPA. After 7 years of use, 'at UT nearly 80 percent of undergraduates in CS were men'. Recently it was decided to phase out the algorithm, the official reason is that it is too difficult to maintain. 
 
-
-[PredPol](http://www.predpol.com/) - PredPol, a program for police departments that predicts hotspots where future crime might occur, could potentially get stuck in a feedback loop of over-policing majority black and brown neighbourhoods. [[summary](https://www.themarshallproject.org/2016/02/03/policing-the-future?ref=hp-2-111#.UyhBLnmlj)]
+[PredPol](http://www.predpol.com/) - PredPol, a program for police departments that predicts hotspots where future crime might occur, could potentially get stuck in a feedback loop of over-policing majority black and brown neighbourhoods. [[summary](https://www.themarshallproject.org/2016/02/03/policing-the-future?ref=hp-2-111#.UyhBLnmlj)][[statistics](https://twitter.com/wsisaac/status/1278416595161939969)]
 
 [COMPAS](http://www.equivant.com/challenges/supervision-and-compliance-monitoring) - is a risk assessment algorithm used in legal courts by the state of Wisconsin to predict the risk of recidivism. Its manufacturer refuses to disclose the proprietary algorithm and only the final risk assessment score is known. The algorithm is biased against blacks (COMPAS performs worse than a human evaluator). [[summary](https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing)][[NYT opinion](https://www.nytimes.com/2017/10/26/opinion/algorithm-compas-sentencing-bias.html)]
 
@@ -44,11 +50,15 @@ Artificial intelligence in its current state is [unfair](https://github.com/rock
 
 [SyRI](https://nos.nl/artikel/2308110-rechtszaak-over-fraudebestrijding-overheid-burgers-bij-voorbaat-verdacht.html) - 'Systeem Risico Indicatie' or 'Risk Identification System' was an AI-based anti-fraud system used by the Dutch government from 2008 to 2020. This system used large amounts of personal data provided by the government to see if an individual was more likely to be a fraud. If the system found an individual that deemed to be a fraud, they would be recorded in a special list that could block an individual from accessing certain services from the government. SyRI was discriminatory in it's judgement and never catched an individual that was proven to be a fraud. The Dutch court ruled in Feburary 2020 that the use of SyRI [violated human rights](https://uitspraken.rechtspraak.nl/inziendocument?id=ECLI:NL:RBDHA:2020:1878). [[amicus curiae](https://www.ohchr.org/Documents/Issues/Poverty/Amicusfinalversionsigned.pdf)]
 
+[Deciding unfair vaccine distribution](https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2020/12/21/1015303/stanford-vaccine-algorithm/amp/) - Only 7 of over 1,300 frontline hospital residents had been prioritized for the first 5,000 doses of the covid vaccine. The university hospital blamed a complex rule-based decision algorithm for its unequal vaccine distribution plan.
+
+[Predicting future research impact](https://www.nature.com/articles/s41587-021-00907-6.epdf?sharing_token=39UTcL65YFDXMVLD98MlDdRgN0jAjWel9jnR3ZoTv0NZz4sYcHufAdbnrBRQudUhMTXL4Z0rLzPr8vE2JFeaaXWDpBqg0FlBOlqnJcFrw8sv6xzeQdSmzRuSbCo3N8c_dSNOTW-7MieHt7vhMwqYxx-DyNT2-1NufgBG02CenUU%3D) - The authors claim a machine-learning model can be used to predict the future “impact” of research published in scientific literature. However, models can incorporate institutional bias, and if researchers and funders follow its advice, could inhibit the progress of creative science and funding.
+
 ## Influencing, disinformation, and fakes
 
 [Cambridge Analytica](https://cambridgeanalytica.org/) - Cambridge Analytica uses Facebook data to change audience behaviour for political and commercial causes. [[Guardian article](https://www.theguardian.com/news/2018/mar/26/the-cambridge-analytica-files-the-story-so-far)]
 
-[Deep Fakes](https://www.deepfakes.club/) - Deep Fakes is an artificial intelligence-based human image synthesis technique. It is used to combine and superimpose existing images and videos onto source images or videos. Deepfakes may be used to create [fake celebrity pornographic videos and revenge porn](https://www.vice.com/en_us/article/bj5and/ai-assisted-fake-porn-is-here-and-were-all-fucked) or [scam businesses](https://gizmodo.com/scammer-successfully-deepfaked-ceos-voice-to-fool-under-1837835066) [[CNN Interactive Report](https://www.cnn.com/interactive/2019/01/business/pentagons-race-against-deepfakes)][[Deep Nudes](https://www.theverge.com/2019/6/27/18760896/deepfake-nude-ai-app-women-deepnude-non-consensual-pornography)][[DreamPower](https://github.com/dreamnettech/dreampower)]
+[Deep Fakes](https://www.deepfakes.club/) - Deep Fakes is an artificial intelligence-based human image synthesis technique. It is used to combine and superimpose existing images and videos onto source images or videos. Deepfakes may be used to create [fake celebrity pornographic videos and revenge porn](https://www.vice.com/en_us/article/bj5and/ai-assisted-fake-porn-is-here-and-were-all-fucked), [undress women](https://twitter.com/sashamtl/status/1453491661720391685) or [scam businesses](https://gizmodo.com/scammer-successfully-deepfaked-ceos-voice-to-fool-under-1837835066) [[CNN Interactive Report](https://www.cnn.com/interactive/2019/01/business/pentagons-race-against-deepfakes)][[Deep Nudes](https://www.theverge.com/2019/6/27/18760896/deepfake-nude-ai-app-women-deepnude-non-consensual-pornography)][[DreamPower](https://github.com/dreamnettech/dreampower)]
 
 [Fake News Bots](https://www.technologyreview.com/s/608561/first-evidence-that-social-bots-play-a-major-role-in-spreading-fake-news/) - Automated accounts are being programmed to spread fake news. In recent times, fake news has been used to manipulate stock markets, make people choose dangerous health-care options, and manipulate elections, including the 2016 US presidential election. [[summary](https://www.wired.com/story/internet-freedom-2017/)][[NYT Article](https://www.nytimes.com/interactive/2019/06/07/technology/ai-text-disinformation.html)]
 
@@ -60,13 +70,13 @@ Artificial intelligence in its current state is [unfair](https://github.com/rock
 
 [Anyvision Facial Recognition](https://www.anyvision.co/) - Facial recognition software previously funded by Microsoft which has [become infamous](https://dropanyvision.org/) for its use by the Israeli Government to survey, track, and identify those living under military occupation throughout the West Bank. The system is also used at Israeli [army checkpoints](https://www.haaretz.com/israel-news/business/.premium-this-israeli-face-recognition-startup-is-secretly-tracking-palestinians-1.7500359) that enclose occupied Palestine.
 
-[Clearview.ai](https://clearview.ai/) - Clearview AI built a facial recognition database of billions of people by scanning their social media profiles. The application is currently used [by law enforcement](https://www.nytimes.com/2020/01/18/technology/clearview-privacy-facial-recognition.html) to extract names and addresses from potential suspects, and as [a secret plaything for the rich](https://www.nytimes.com/2020/03/05/technology/clearview-investors.html) to let them spy on customers and dates.
+[Clearview.ai](https://clearview.ai/) - Clearview AI built a facial recognition database of billions of people by scanning their social media profiles. The application is currently used [by law enforcement](https://www.nytimes.com/2020/01/18/technology/clearview-privacy-facial-recognition.html) to extract names and addresses from potential suspects, and as [a secret plaything for the rich](https://www.nytimes.com/2020/03/05/technology/clearview-investors.html) to let them spy on customers and dates. Clearview AI is developed by [far-right employees](https://www.huffpost.com/entry/clearview-ai-facial-recognition-alt-right_n_5e7d028bc5b6cb08a92a5c48).
 
 [Predicting Mass Protests](https://motherboard.vice.com/en_us/article/7x3g4x/pentagon-wants-to-predict-anti-trump-protests-using-social-media-surveillance) - The US Pentagon funds and uses technologies such as [social media surveillance](http://apollo2.cs.illinois.edu/index.html) and [satellite imagery](https://www.iarpa.gov/index.php/newsroom/iarpa-in-the-news/2015/461-the-embers-project-can-predict-the-future-with-twitter) to [forecast civil disobedience](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.302.323&rep=rep1&type=pdf) and infer [location of protesters](https://patents.google.com/patent/US20170310772A1/en) [via their social networks](https://web.archive.org/web/20181019110722/http://jurgens.people.si.umich.edu/docs/icwsm-2013-slides.pdf) around the world. There are indications that this technology is increasingly used to [target Anti-Trump protests](https://link.springer.com/chapter/10.1007/978-3-319-97885-7_27), [leftwing groups](https://www.theguardian.com/us-news/2018/sep/15/massachusetts-police-tweet-leftwing-surveillance-boston) and [activists of color](https://medium.com/@ACLU_NorCal/police-use-of-social-media-surveillance-software-is-escalating-and-activists-are-in-the-digital-d29d8f89c48#.fowkro6dy). 
 
 [Gait Analysis](https://royalsociety.org/~/media/about-us/programmes/science-and-law/royal-society-forensic-gait-analysis-primer-for-courts.pdf) - Your gait is highly complex, very much unique and hard, if not impossible, to mask in this era of CCTV. Your gait only needs to be recorded once and associated with your identity, for you to be tracked in real-time. [In China](https://www.theatlantic.com/magazine/archive/2018/04/big-in-china-machines-that-scan-your-face/554075/) this kind of surveillance is already deployed. Besides, multiple people have been convicted on their gait alone in the west. We can no longer stay even modestly anonymous in public.
 
-[SenseTime](https://www.sensetime.com/intelligentVideo/84) & [Megvii](https://megvii.com/)- Based on Face Recognition technology powered by deep learning algorithm, SenseFace and Megvii provides integrated solutions of intelligent video analysis, which functions in target surveillance, trajectory analysis, population management. [[summary](https://www.reuters.com/article/us-china-facialrecognition-analysis/backing-big-brother-chinese-facial-recognition-firms-appeal-to-funds-idUSKBN1DD00A)][[forbes](https://www.forbes.com/sites/shuchingjeanchen/2018/03/07/the-faces-behind-chinas-omniscient-video-surveillance-technology/#54401e4f4afc)][[The Economist (video)](https://www.youtube.com/watch?v=lH2gMNrUuEY)]
+[SenseTime](https://www.sensetime.com/intelligentVideo/84) & [Megvii](https://megvii.com/)- Based on Face Recognition technology powered by deep learning algorithm, SenseFace and Megvii provides integrated solutions of intelligent video analysis, which functions in target surveillance, trajectory analysis, population management. The technology advanced to detect faces [for people wearing a mask](https://www.ft.com/content/42415608-340c-4c0a-8c93-f22cdd4cc2d6). [[summary](https://www.reuters.com/article/us-china-facialrecognition-analysis/backing-big-brother-chinese-facial-recognition-firms-appeal-to-funds-idUSKBN1DD00A)][[forbes](https://www.forbes.com/sites/shuchingjeanchen/2018/03/07/the-faces-behind-chinas-omniscient-video-surveillance-technology/#54401e4f4afc)][[The Economist (video)](https://www.youtube.com/watch?v=lH2gMNrUuEY)]
 
 [Uber](https://www.forbes.com/sites/kashmirhill/2014/10/03/god-view-uber-allegedly-stalked-users-for-party-goers-viewing-pleasure/#70a9f7a43141) - Uber's "God View" let Uber employees see all of the Ubers in a city and the silhouettes of waiting for Uber users who have flagged cars - including names. The data collected by Uber was then used by its researchers to analyze private intent such as meeting up with a sexual partner. [[rides of glory](https://rideofglory.wordpress.com/)]
 
@@ -86,6 +96,15 @@ Artificial intelligence in its current state is [unfair](https://github.com/rock
 
 [Zach](https://thespinoff.co.nz/the-best-of/06-03-2018/the-mystery-of-zach-new-zealands-all-too-miraculous-medical-ai/) - an AI, developed by the Terrible Foundation, claimed to write better reports than medical doctors. The technology generated large media attention in New Zealand but turned out to be a [misleading scam](https://thespinoff.co.nz/the-best-of/09-03-2018/the-mystery-of-zach-the-miracle-ai-continued-it-all-just-gets-terribler/) aiming to steal money from investors. 
 
+## Accelerating the climate emergency
+
+[Increase fossil fuel production](https://www.greenpeace.org/usa/reports/oil-in-the-cloud) - As the oil and gas industry confronts the end of the oil age and deteriorating earnings, major oil corporations such as Shell, BP, Chevron, ExxonMobil and others have turned to the tech companies and artificial intelligence to find and extract more oil and gas, reduce production costs and extending global warming. 
+The World Economic Forum has estimated that advanced analytics and modeling could generate at much as [$425 billion in value](http://reports.weforum.org/digital-transformation/wp-content/blogs.dir/94/mp/files/pages/files/white-paper-2017-dti-oil-gas.pdf) for the oil and gas sector by 2025. AI technologies could boost production levels [by as much as 5%](https://corporate.exxonmobil.com/News/Newsroom/News-releases/2019/0305_ExxonMobil-to-increase-accelerate-Permian-output-to-1-million-barrels-per-day-by-2024). [[Video](https://www.youtube.com/watch?v=v3n8txX3144)]
+
+[Overestimate carbon credits](https://www.propublica.org/article/the-climate-solution-actually-adding-millions-of-tons-of-co2-into-the-atmosphere) - Forest carbon credits are bought by emitters to get to net zero. Over issuing carbon credits have a devastating effect in allowing emitters to emit more than legally allowed. This is already happening on a systematic level. Carbonplan found out that 29% of the offsets analyzed were over-credited, totaling an additional 30 million tCO₂e. Recent research suggests, that [AI-based estimations](https://www.climatechange.ai/papers/icml2021/79) can accelerate this problem and significantly overcredit carbon offsets. [[Technical Report](https://carbonplan.org/research/forest-offsets-explainer)][[map](https://carbonplan.org/research/forest-offsets)]
+
+
+
 ## Autonomous weapon systems and military
 
 [Lethal autonomous weapons systems](https://autonomousweapons.org/) - Autonomous weapons locate, select, and engage targets without human intervention. They include, for example, [armed quadcopters (video)](https://www.youtube.com/watch?v=9CO6M2HsoIA) that can search for and eliminate enemy combatants in a city using facial recognition. [[NY Times (video)](https://www.youtube.com/watch?v=GFD_Cgr2zho)]
@@ -94,6 +113,9 @@ Artificial intelligence in its current state is [unfair](https://github.com/rock
 - [Automated machine gun](https://www.youtube.com/watch?v=4OqmoHBvB0c) - The Kalashnikov group presented an automatic weapon control station using AI that provides the operator with automatic recognition and target illumination and automatic tracking of ground, air and sea targets. Samsung developed and deployed [SGR-A1](https://en.wikipedia.org/wiki/SGR-A1), a robot sentry gun, which uses voice recognition and tracking.
 - [Armed UAVs](http://www.globaltimes.cn/content/1149168.shtml) - Ziyan UAV develops armed autonomous drones with light machine guns and explosives that can act in swarms
 - [Autonomous Tanks](https://en.wikipedia.org/wiki/Unmanned_ground_vehicle) - Uran-9 is an autonomous tank, developed by Russia, that was tested in the [Syrian Civil War](https://nationalinterest.org/blog/buzz/russias-uran-9-robot-tank-went-war-syria-it-didnt-go-very-well-40677)
+- [Robot dogs with guns](https://www.theverge.com/2021/10/14/22726111/robot-dogs-with-guns-sword-international-ghost-robotics) - Ghost Robotics equippes robotic dogs with a lethal weapons. The SPUR gun is designed to be fitted onto a variety of robotic platforms and is unmanned.
+
+
 
 ### Known incidents:
 
@@ -101,9 +123,17 @@ Artificial intelligence in its current state is [unfair](https://github.com/rock
 
 ---
 
-## Awful AI Research
+## Awful AI Award
 
-> Awful AI research shapes awful AI applications. This section gives out the *Awful AI Research award* for the most unethical research or event happening within the scientific community. Congratulations to AI researchers and companies for missing ethical guidelines. 
+> Every year this section gives out the *Awful AI award* for the most unethical research or event happening within the scientific community and beyond. Congratulations to AI researchers, companies and media for missing ethical guidelines - and failing to provide moral guidelines.
+
+### Winner 2021: FastCompany & Checkr
+
+**'Awful media reporting' 🥇**
+
+**Laudation**:
+
+Congratulations to [FastCompany](https://www.fastcompany.com/) for awarding [Checkr](), a [highly controversial](https://www.protocol.com/checkr-gig-economy-lawsuits) automated background check company, the [World Changing Ideas Awards for "fair" hiring](https://www.fastcompany.com/90623897/see-34-ingenious-inspirational-winners-of-the-2021-world-changing-ideas-awards). Instead of slow fingerprint-based background checks, Checkr uses several machine learning models to gather reports from public records which will contain bias and mistakes. [Dozens of lawsuits](https://www.agrusslawfirm.com/blog/controversial-background-check-startup-checkr-worth-$2-2-billion/) have been filed against Checkr since 2014 for erroneous information. Despite these ongoing controversies, we congratulate FastCompany for the audacity for turning the narrative and awarding Checkr instead its prize for "ethical" and "fair" AI use 👏
 
 ### Winner 2020: Google Research & the AI Twitter Community 
 
@@ -111,17 +141,17 @@ Artificial intelligence in its current state is [unfair](https://github.com/rock
 
 **Laudation**: 
 
-Congratulations to Google Research for sending an awful signal by [firing Dr. Timnit Gebru](https://googlewalkout.medium.com/standing-with-dr-timnit-gebru-isupporttimnit-believeblackwomen-6dadc300d382), one of very few Black women Research Scientists at the company, from her position as Co-Lead of Ethical AI after a dispute over her research, which focused on examining the environmental and ethical implications of large-scale AI language models. 
+Congratulations to Google Research for sending an awful signal by [firing Dr. Timnit Gebru](https://googlewalkout.medium.com/standing-with-dr-timnit-gebru-isupporttimnit-believeblackwomen-6dadc300d382), one of very few Black women Research Scientists at the company, from her position as Co-Lead of Ethical AI after a dispute over her research, which focused on examining the environmental and ethical implications of large-scale AI language models 👏
 
-Congratulations to the AI Twitter community for its increasing efforts on creating a space of [unsafe dialogue and toxic behaviour](https://www.geekwire.com/2020/retired-uw-computer-science-professor-embroiled-twitter-spat-ai-ethics-cancel-culture/) that [mobbed out many AI researchers such as Anima Anandkumar](https://animakumar.wpcomstaging.com/2020/12/16/my-departure-from-twitter/) (who led the [renaming of NIPS controversial acryonym](https://www.nature.com/articles/d41586-018-07476-w) into NeurIPS) 
+Congratulations to the AI Twitter community for its increasing efforts on creating a space of [unsafe dialogue and toxic behaviour](https://www.geekwire.com/2020/retired-uw-computer-science-professor-embroiled-twitter-spat-ai-ethics-cancel-culture/) that [mobbed out many AI researchers such as Anima Anandkumar](https://animakumar.wpcomstaging.com/2020/12/16/my-departure-from-twitter/) (who led the [renaming of NIPS controversial acryonym](https://www.nature.com/articles/d41586-018-07476-w) into NeurIPS) 👏
 
-### Winner 2019: NeurIPS 
+### Winner 2019: NeurIPS Conference
 
 **'Scary research award' 🥇**
 
 **Laudation**: 
 
-Congratulations to NeurIPS 2019, one of the world's top venue for AI research, and its reviewers for accepting unethical papers into the conference. Some examples are listed below.
+Congratulations to NeurIPS 2019, one of the world's top venue for AI research, and its reviewers for accepting unethical papers into the conference. Some examples are listed below 👏
 
 [Face Reconstruction from Voice using Generative Adversarial Networks
 ](https://papers.nips.cc/paper/8768-face-reconstruction-from-voice-using-generative-adversarial-networks) - This paper addresses the challenge to reconstruct someone's face from their voice. Given an audio clip spoken by an unseen person, the proposed algorithm pictures a face that has as many common elements, or associations as possible with the speaker, in terms of identity. The model can generate faces that match several biometric characteristics of the speaker and results in matching accuracies that are much better than chance. [[code](https://github.com/cmu-mlsp/reconstructing_faces_from_voices)]
@@ -146,11 +176,13 @@ Update (2020): NeurIPS 2020 has since implemented ethical reviews that [flag and
 
 [Adversarial Machine Learning](https://blog.openai.com/adversarial-example-research/) - Adversarial examples are inputs, which cause the model to make a mistake. Research in adversarial defences includes but is not limited to adversarial training, distillation and Defense-GAN.
 
+[Towards Truthful Language Models](https://openai.com/blog/improving-factual-accuracy/) - Language models like GPT-3 are useful for many different tasks, but have a tendency to “hallucinate” information when performing tasks requiring obscure real-world knowledge. OpenAI requires research model to cite its sources, allowing humans to evaluate factual accuracy by checking whether a claim is supported by a reliable source. 
+
 ## Contestational tech projects
 
 > These open-source projects try to spur discourse, offer protection or awareness to awful AI
 
-[BLM Privacy](http://blm.stanford.edu/) - AI facial recognition models can recognize blurred faces and is used by authorities to arrest protesters. BLM Privacy tries to discourage people from trying to recognize or reconstruct pixelated faces by masking people with an opaque mask. [[code](https://github.com/StanfordMLGroup/blm)]
+[BLM Privacy & Anonymous Camera](https://apps.apple.com/us/app/anonymous-camera/id1504102584) - AI facial recognition models can recognize blurred faces and is used by authorities to arrest protesters. BLM Privacy and Anonymous Camera tries to discourage people from trying to recognize or reconstruct pixelated faces by masking people with an opaque mask. [[code](https://github.com/StanfordMLGroup/blm)][[BLM privacy](https://github.com/stanfordmlgroup/blm)]
 
 [AdNauseam](https://adnauseam.io/) - AdNauseam is a lightweight browser extension to fight back against tracking by advertising networks. It works like an ad-blocker (it is built atop uBlock-Origin) to silently simulate clicks on each blocked ad, confusing trackers as to one's real interests. [[code](https://github.com/dhowe/AdNauseam)]
 
@@ -162,6 +194,11 @@ Update (2020): NeurIPS 2020 has since implemented ethical reviews that [flag and
 
 [Center for Democracy & Technology](https://cdt.info/ddtool/) - Digital Decisions is an interactive graphic that helps you ask the right questions when designing/implementing or building a new algorithm.
 
+[TensorFlow KnowYourData](https://knowyourdata.withgoogle.com/) - A platform to help researchers, engineers, product teams, and decision makers understand 70+ datasets with the goal of improving data quality, and helping mitigate fairness and bias issues.
+
+[Model and dataset cards](https://modelcards.withgoogle.com/about) - Model and [dataset](https://huggingface.co/docs/datasets/v1.12.0/dataset_card.html) cards encourage transparent reporting for ML models and datasets. They are short documents accompanying ML models or datasets that provide benchmarked evaluation in a variety of conditions, such as across different cultural, demographic, or phenotypic groups (e.g., race, geographic location, sex, Fitzpatrick skin type) and intersectional groups (e.g., age and race, or sex and Fitzpatrick skin type). They also disclose the context and limits in which datasets and models are intended to be used, details of the performance evaluation procedures, and other relevant information. [[paper](https://arxiv.org/abs/1810.03993)][[blog](https://ai.googleblog.com/2020/07/introducing-model-card-toolkit-for.html)]
+
+[Evil AI Cartoons](https://www.evilaicartoons.com/) - Educate and stimulate discussion about the societal impacts of Artificial Intelligence through the cartoon/comics medium. Each cartoon is accompanied by a brief blog post that provides more context and useful pointers to further reading. 
 
 ## License
 

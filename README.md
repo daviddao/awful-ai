@@ -192,6 +192,8 @@ Update (2020): NeurIPS 2020 has since implemented ethical reviews that [flag and
 
 > These open-source projects try to spur discourse, offer protection or awareness to awful AI
 
+[Have I Been Trained](haveibeentrained.com) - With HaveIBeenTrained, artists can search databases which large image generation models like Stable Diffusion have been trained on for links to their work and flag them for removal. Spawning (the creator behind HaveIBeenTrained) partners with Laion, who built these datasets, to remove those links. This helps ensure that future models will not be trained with work that has been opted out.
+
 [BLM Privacy & Anonymous Camera](https://apps.apple.com/us/app/anonymous-camera/id1504102584) - AI facial recognition models can recognize blurred faces and is used by authorities to arrest protesters. BLM Privacy and Anonymous Camera tries to discourage people from trying to recognize or reconstruct pixelated faces by masking people with an opaque mask. [[code](https://github.com/StanfordMLGroup/blm)][[BLM privacy](https://github.com/stanfordmlgroup/blm)]
 
 [AdNauseam](https://adnauseam.io/) - AdNauseam is a lightweight browser extension to fight back against tracking by advertising networks. It works like an ad-blocker (it is built atop uBlock-Origin) to silently simulate clicks on each blocked ad, confusing trackers as to one's real interests. [[code](https://github.com/dhowe/AdNauseam)]

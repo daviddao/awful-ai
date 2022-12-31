@@ -135,7 +135,15 @@ The World Economic Forum has estimated that advanced analytics and modeling coul
 
 ## Awful AI Award
 
-> Every year this section gives out the *Awful AI award* for the most unethical research or event happening within the scientific community and beyond. Congratulations to AI researchers, companies and media for missing ethical guidelines - and failing to provide moral guidelines.
+> Every year this section gives out the *Awful AI award* for the most unethical research or event happening within the scientific community and beyond. Congratulations to AI researchers, companies and media for missing ethical guidelines - and failing to provide moral leadership.
+
+### Winner 2022: Commercial AI Image Generators
+
+**'Awful data stealing' 🥇**
+
+**Laudation**:
+
+Congratulations to commercial AI image generators such as [DALL·E-2](https://openai.com/dall-e-2/), [Midjourney](https://midjourney.com/), [Lensa](https://prisma-ai.com/lensa), and others for unethically [stealing from artists without their consent](https://www.buzzfeednews.com/article/kelseyweekman/ai-art-app-lensa-instagram-photo-trend-problems), making a profit out of models that have been trained on their art without compensating them, and [automating and putting artists out of business](https://www.nytimes.com/2022/09/02/technology/ai-artificial-intelligence-artists.html). A special shoutout goes to OpenAI and Midjourney for keeping its training database of stolen artworks secret 👏
 
 ### Winner 2021: FastCompany & Checkr
 

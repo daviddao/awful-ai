@@ -133,6 +133,9 @@ The World Economic Forum has estimated that advanced analytics and modeling coul
 
 ['Machine-gun with AI' used to kill Iran scientist](https://www.bbc.com/news/world-middle-east-55214359) - A machine-gun mounted on the Nissan pick-up was equipped with an intelligent satellite system which zoomed in on an iranian scientist. The machine-gun controlled through artificial intelligence shot the scientist without hurting his wife, despite being only 25cm away.
 
+### Weapons target tracking and intelligence
+The startup [Modern Intelligence](https://www.modernintelligence.ai/) claims its AI will "save lives" by offering "warfighters" more precise target tracking and an enemy intelligence system that "learns." The company is [funded by VC firm Vine Ventures](https://medium.com/vine-ventures/why-we-invested-in-modern-intelligence-b0a2772345ca).
+
 ---
 
 ## Awful AI Award

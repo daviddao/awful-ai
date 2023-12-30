@@ -1,4 +1,5 @@
-# Awful AI
+Awful AI
+===
 
 **Awful AI** is a curated list to track *current* scary usages of AI - hoping to raise awareness to its misuses in society
 
@@ -8,7 +9,24 @@ You can [cite the list](https://zenodo.org/record/5855972#.YeQUyFjMI-Q) and rais
 
 [![DOI](https://zenodo.org/badge/127008307.svg)](https://zenodo.org/badge/latestdoi/127008307)
 
----
+| Table of Contents |
+| --- |
+| [1. Awful AI Categories](#awful-ai-categories) |
+| &nbsp;&nbsp;&nbsp;&nbsp;1.1. [Discrimination](#discrimination) |
+| &nbsp;&nbsp;&nbsp;&nbsp;1.2. [Influencing, Disinformation, and Fakes](#influencing-disinformation-and-fakes) |
+| &nbsp;&nbsp;&nbsp;&nbsp;1.3. [Surveillance](#surveillance) |
+| &nbsp;&nbsp;&nbsp;&nbsp;1.4. [Data Crimes](#data-crimes) |
+| &nbsp;&nbsp;&nbsp;&nbsp;1.5. [Social Credit Systems](#social-credit-systems) |
+| &nbsp;&nbsp;&nbsp;&nbsp;1.6. [Misleading Platforms, and Scams](#misleading-platforms-and-scams) |
+| &nbsp;&nbsp;&nbsp;&nbsp;1.7. [Accelerating the Climate Emergency](#accelerating-the-climate-emergency) |
+| &nbsp;&nbsp;&nbsp;&nbsp;1.8. [Autonomous Weapon Systems and Military](#autonomous-weapon-systems-and-military) |
+| [2. Contestational AI Efforts](#contestational-ai-efforts) |
+| &nbsp;&nbsp;&nbsp;&nbsp;2.1. [Contestational Research](#contestational-research) |
+| &nbsp;&nbsp;&nbsp;&nbsp;2.2. [Contestational Tech Projects](#contestational-tech-projects) |
+| [3. Annual Awful AI Award](#annual-awful-ai-award) |
+
+
+# Awful AI Categories
 
 ## Discrimination
 
@@ -123,53 +141,6 @@ You can [cite the list](https://zenodo.org/record/5855972#.YeQUyFjMI-Q) and rais
 
 ---
 
-## Awful AI Award
-
-> Every year this section gives out the *Awful AI award* for the most unethical research or event happening within the scientific community and beyond. Congratulations to AI researchers, companies and media for missing ethical guidelines - and failing to provide moral leadership.
-
-### Winner 2022: Commercial AI Image Generators
-
-**'Awful data stealing' 🥇**
-
-**Laudation**:
-
-Congratulations to commercial AI image generators such as [DALL·E-2](https://openai.com/dall-e-2/), [Midjourney](https://midjourney.com/), [Lensa](https://prisma-ai.com/lensa), and others for unethically [stealing from artists without their consent](https://www.buzzfeednews.com/article/kelseyweekman/ai-art-app-lensa-instagram-photo-trend-problems), making a profit out of models that have been trained on their art without compensating them, and [automating and putting artists out of business](https://www.nytimes.com/2022/09/02/technology/ai-artificial-intelligence-artists.html). A special shoutout goes to OpenAI and Midjourney for keeping its training database of stolen artworks secret 👏
-
-### Winner 2021: FastCompany & Checkr
-
-**'Awful media reporting' 🥇**
-
-**Laudation**:
-
-Congratulations to [FastCompany](https://www.fastcompany.com/) for awarding [Checkr](), a [highly controversial](https://www.protocol.com/checkr-gig-economy-lawsuits) automated background check company, the [World Changing Ideas Awards for "fair" hiring](https://www.fastcompany.com/90623897/see-34-ingenious-inspirational-winners-of-the-2021-world-changing-ideas-awards). Instead of slow fingerprint-based background checks, Checkr uses several machine learning models to gather reports from public records which will contain bias and mistakes. [Dozens of lawsuits](https://www.agrusslawfirm.com/blog/controversial-background-check-startup-checkr-worth-$2-2-billion/) have been filed against Checkr since 2014 for erroneous information. Despite these ongoing controversies, we congratulate FastCompany for the audacity for turning the narrative and awarding Checkr instead its prize for "ethical" and "fair" AI use 👏
-
-### Winner 2020: Google Research & the AI Twitter Community 
-
-**'Awful role model award' 🥇**
-
-**Laudation**: 
-
-Congratulations to Google Research for sending an awful signal by [firing Dr. Timnit Gebru](https://googlewalkout.medium.com/standing-with-dr-timnit-gebru-isupporttimnit-believeblackwomen-6dadc300d382), one of very few Black women Research Scientists at the company, from her position as Co-Lead of Ethical AI after a dispute over her research, which focused on examining the environmental and ethical implications of large-scale AI language models 👏
-
-Congratulations to the AI Twitter community for its increasing efforts on creating a space of [unsafe dialogue and toxic behaviour](https://www.geekwire.com/2020/retired-uw-computer-science-professor-embroiled-twitter-spat-ai-ethics-cancel-culture/) that [mobbed out many AI researchers such as Anima Anandkumar](https://animakumar.wpcomstaging.com/2020/12/16/my-departure-from-twitter/) (who led the [renaming of NIPS controversial acryonym](https://www.nature.com/articles/d41586-018-07476-w) into NeurIPS) 👏
-
-### Winner 2019: NeurIPS Conference
-
-**'Scary research award' 🥇**
-
-**Laudation**: 
-
-Congratulations to NeurIPS 2019, one of the world's top venue for AI research, and its reviewers for accepting unethical papers into the conference. Some examples are listed below 👏
-
-[Face Reconstruction from Voice using Generative Adversarial Networks
-](https://papers.nips.cc/paper/8768-face-reconstruction-from-voice-using-generative-adversarial-networks) - This paper addresses the challenge to reconstruct someone's face from their voice. Given an audio clip spoken by an unseen person, the proposed algorithm pictures a face that has as many common elements, or associations as possible with the speaker, in terms of identity. The model can generate faces that match several biometric characteristics of the speaker and results in matching accuracies that are much better than chance. [[code](https://github.com/cmu-mlsp/reconstructing_faces_from_voices)]
-**Category: Surveillance**
-
-[Predicting the Politics of an Image Using Webly Supervised Data
-](https://papers.nips.cc/paper/8621-predicting-the-politics-of-an-image-using-webly-supervised-data) - This paper collects a dataset of over one million unique images and associated news articles from left- and right-leaning news sources, and develops a method to predict and adjust the image's political leaning, outperforming strong baselines. **Category: Discrimination**
-
-Update (2020): NeurIPS 2020 has since implemented ethical reviews that [flag and reject unethical papers](https://www.nature.com/articles/d41586-020-03611-8).
-
 ## Contestational research
 
 > Research to create a less awful and more privacy-preserving AI
@@ -182,6 +153,8 @@ Update (2020): NeurIPS 2020 has since implemented ethical reviews that [flag and
 | Fair Machine Learning & Algorithm Bias | Addressing fairness and bias in AI. | <details><summary>Show Details</summary>A subfield of AI focusing on fairness criteria and algorithmic bias, exploring the impact of implementing these criteria on long-term fairness.</details> | [The Gradient](https://thegradient.pub/ai-bias/), [ICLR18 Best Paper](https://bair.berkeley.edu/blog/2018/05/17/delayed-impact/) |
 | Adversarial Machine Learning | Research on AI's vulnerability to misleading inputs. | <details><summary>Show Details</summary>Focuses on adversarial examples that mislead AI models, with research into defenses like adversarial training and Defense-GAN.</details> | [OpenAI Blog](https://blog.openai.com/adversarial-example-research/) |
 | Towards Truthful Language Models | Improving factual accuracy in language models. | <details><summary>Show Details</summary>Language models like GPT-3 are prone to "hallucinate" information. Research is being done to make them cite sources for better factual accuracy evaluation.</details> | [OpenAI Blog](https://openai.com/blog/improving-factual-accuracy/) |
+
+# Contestational AI Efforts
 
 ## Contestational tech projects
 
@@ -199,6 +172,20 @@ Update (2020): NeurIPS 2020 has since implemented ethical reviews that [flag and
 | TensorFlow KnowYourData | Understand and improve data quality. | <details><summary>Show Details</summary>Provides insights into 70+ datasets to enhance data quality, mitigate fairness and bias issues, and assist researchers, engineers, and decision-makers.</details> | [Website](https://knowyourdata.withgoogle.com/) |
 | Model and Dataset Cards | Encourage transparent reporting in ML. | <details><summary>Show Details</summary>Short documents accompanying ML models or datasets that provide benchmarked evaluation across various conditions and disclose context, limits, and evaluation procedures to promote transparency.</details> | [Paper](https://arxiv.org/abs/1810.03993), [Blog](https://ai.googleblog.com/2020/07/introducing-model-card-toolkit-for.html) |
 | Evil AI Cartoons | Cartoon medium to discuss AI impacts. | <details><summary>Show Details</summary>Uses cartoons and comics to educate and stimulate discussions about the societal impacts of AI, with accompanying blog posts for context and further reading.</details> | [Website](https://www.evilaicartoons.com/) |
+
+
+# Annual Awful AI Award
+
+> Every year this section gives out the *Awful AI award* for the most unethical research or event happening within the scientific community and beyond. Congratulations to AI researchers, companies and media for missing ethical guidelines - and failing to provide moral leadership.
+
+## Past Winners
+
+| Year | Winner | Category | Laudation |
+|------|--------|----------|-----------|
+| 2022 | [Commercial AI Image Generators](https://openai.com/dall-e-2/) | 'Awful data stealing' 🥇 | Congratulations to commercial AI image generators such as [DALL·E-2](https://openai.com/dall-e-2/), [Midjourney](https://midjourney.com/), [Lensa](https://prisma-ai.com/lensa), and others for unethically [stealing from artists without their consent](https://www.buzzfeednews.com/article/kelseyweekman/ai-art-app-lensa-instagram-photo-trend-problems), making a profit out of models that have been trained on their art without compensating them, and [automating and putting artists out of business](https://www.nytimes.com/2022/09/02/technology/ai-artificial-intelligence-artists.html). A special shoutout goes to OpenAI and Midjourney for keeping its training database of stolen artworks secret 👏 |
+| 2021 | [FastCompany & Checkr](https://www.fastcompany.com/) | 'Awful media reporting' 🥇 | Congratulations to [FastCompany](https://www.fastcompany.com/) for awarding [Checkr](), a [highly controversial](https://www.protocol.com/checkr-gig-economy-lawsuits) automated background check company, the [World Changing Ideas Awards for "fair" hiring](https://www.fastcompany.com/90623897/see-34-ingenious-inspirational-winners-of-the-2021-world-changing-ideas-awards). Instead of slow fingerprint-based background checks, Checkr uses several machine learning models to gather reports from public records which will contain bias and mistakes. [Dozens of lawsuits](https://www.agrusslawfirm.com/blog/controversial-background-check-startup-checkr-worth-$2-2-billion/) have been filed against Checkr since 2014 for erroneous information. Despite these ongoing controversies, we congratulate FastCompany for the audacity for turning the narrative and awarding Checkr instead its prize for "ethical" and "fair" AI use 👏 |
+| 2020 | [Google Research & the AI Twitter Community](https://googlewalkout.medium.com/standing-with-dr-timnit-gebru-isupporttimnit-believeblackwomen-6dadc300d382) | 'Awful role model award' 🥇 | Congratulations to Google Research for sending an awful signal by [firing Dr. Timnit Gebru](https://googlewalkout.medium.com/standing-with-dr-timnit-gebru-isupporttimnit-believeblackwomen-6dadc300d382), one of very few Black women Research Scientists at the company, from her position as Co-Lead of Ethical AI after a dispute over her research, which focused on examining the environmental and ethical implications of large-scale AI language models 👏. Congratulations to the AI Twitter community for its increasing efforts on creating a space of [unsafe dialogue and toxic behaviour](https://www.geekwire.com/2020/retired-uw-computer-science-professor-embroiled-twitter-spat-ai-ethics-cancel-culture/) that [mobbed out many AI researchers such as Anima Anandkumar](https://animakumar.wpcomstaging.com/2020/12/16/my-departure-from-twitter/) (who led the [renaming of NIPS controversial acronym](https://www.nature.com/articles/d41586-018-07476-w) into NeurIPS) 👏 |
+| 2019 | [NeurIPS Conference](https://papers.nips.cc/paper/8768-face-reconstruction-from-voice-using-generative-adversarial-networks) | 'Scary research award' 🥇 | Congratulations to NeurIPS 2019, one of the world's top venue for AI research, and its reviewers for accepting unethical papers into the conference. Some examples are listed below 👏. Update (2020): NeurIPS 2020 has since implemented ethical reviews that [flag and reject unethical papers](https://www.nature.com/articles/d41586-020-03611-8). |
 
 ## License
 

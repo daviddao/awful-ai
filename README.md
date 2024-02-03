@@ -78,6 +78,8 @@ You can [cite the list](https://zenodo.org/record/5855972#.YeQUyFjMI-Q) and rais
 | Digi AI Romance | AI chatbot for romantic companionship. | <details><summary>Show Details</summary>A new AI chatbot app called Digi AI Romance allows users to create a digital avatar as a companion, focusing on engaging in flirty banter, deep conversation, and offering emotional support. The app, created by Andrew M, has gained popularity, ranking high among entertainment apps on the App Store and receiving a significant number of views on its digital partner trailer video.</details> | [Economic Times](https://economictimes.indiatimes.com/tech/technology/romance-goes-digital-with-this-ai-chatbot-to-beat-loneliness/articleshow/106154803.cms), [Twitter Post by Andy Ohlbaum](https://twitter.com/andyohlbaum/status/1735786033453863422?t=2h3321t6bGIMT_Z-tdk_Nw) |
 
 
+[Meta-data driven conferencing system](https://www.youtube.com/watch?v=NqmMnjJ6GEg) - NVIDIA has developed a system for videoconferencing that takes a single frame of actual video then manipulates it to reflect the source without transferring any other frames, just data points, which are mapped to the original video or a completely different avatar.  It would be trivial to manipulate the bitstream to output video/audio of one's choosing.  Heavily based on Deep Fakes.
+
 ## Surveillance
 
 > This category showcases a range of AI applications in surveillance, highlighting the use of advanced facial recognition, gait analysis, social media monitoring, and real-time censorship technologies by governments and corporations to monitor, track, and analyze individuals' behaviors and actions, often raising significant privacy and ethical concerns.

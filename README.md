@@ -166,6 +166,8 @@ You can [cite the list](https://zenodo.org/record/5855972#.YeQUyFjMI-Q) and rais
 
 # Contestational AI Efforts
 
+[Protective Optimization Technologies](https://blog.acolyer.org/2020/02/05/protective-optimization-technologies/) - Technological tools and interventions that protest, contest, or counteract awful AI systems. A recent [academic paper (in FAT* 2020)](https://arxiv.org/abs/1806.02711) has compiled list of such technologies and showed how to build them.
+
 ## Contestational tech projects
 
 > These open-source projects try to spur discourse, offer protection or awareness to awful AI

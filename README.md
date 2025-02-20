@@ -151,6 +151,8 @@ You can [cite the list](https://zenodo.org/record/5855972#.YeQUyFjMI-Q) and rais
 
 ---
 
+# Contestational AI Efforts
+
 ## Contestational research
 
 > Research to create a less awful and more privacy-preserving AI
@@ -163,8 +165,6 @@ You can [cite the list](https://zenodo.org/record/5855972#.YeQUyFjMI-Q) and rais
 | Fair Machine Learning & Algorithm Bias | Addressing fairness and bias in AI. | <details><summary>Show Details</summary>A subfield of AI focusing on fairness criteria and algorithmic bias, exploring the impact of implementing these criteria on long-term fairness.</details> | [The Gradient](https://thegradient.pub/ai-bias/), [ICLR18 Best Paper](https://bair.berkeley.edu/blog/2018/05/17/delayed-impact/) |
 | Adversarial Machine Learning | Research on AI's vulnerability to misleading inputs. | <details><summary>Show Details</summary>Focuses on adversarial examples that mislead AI models, with research into defenses like adversarial training and Defense-GAN.</details> | [OpenAI Blog](https://blog.openai.com/adversarial-example-research/) |
 | Towards Truthful Language Models | Improving factual accuracy in language models. | <details><summary>Show Details</summary>Language models like GPT-3 are prone to "hallucinate" information. Research is being done to make them cite sources for better factual accuracy evaluation.</details> | [OpenAI Blog](https://openai.com/blog/improving-factual-accuracy/) |
-
-# Contestational AI Efforts
 
 ## Contestational tech projects
 
@@ -182,6 +182,8 @@ You can [cite the list](https://zenodo.org/record/5855972#.YeQUyFjMI-Q) and rais
 | TensorFlow KnowYourData | Understand and improve data quality. | <details><summary>Show Details</summary>Provides insights into 70+ datasets to enhance data quality, mitigate fairness and bias issues, and assist researchers, engineers, and decision-makers.</details> | [Website](https://knowyourdata.withgoogle.com/) |
 | Model and Dataset Cards | Encourage transparent reporting in ML. | <details><summary>Show Details</summary>Short documents accompanying ML models or datasets that provide benchmarked evaluation across various conditions and disclose context, limits, and evaluation procedures to promote transparency.</details> | [Paper](https://arxiv.org/abs/1810.03993), [Blog](https://ai.googleblog.com/2020/07/introducing-model-card-toolkit-for.html) |
 | Evil AI Cartoons | Cartoon medium to discuss AI impacts. | <details><summary>Show Details</summary>Uses cartoons and comics to educate and stimulate discussions about the societal impacts of AI, with accompanying blog posts for context and further reading.</details> | [Website](https://www.evilaicartoons.com/) |
+
+---
 
 
 # Annual Awful AI Award
